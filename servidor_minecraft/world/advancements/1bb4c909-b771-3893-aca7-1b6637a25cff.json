@@ -95,9 +95,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-03 19:00:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-05-03 18:59:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-03 19:00:24 +0000"
     },
     "done": true
   },
@@ -113,9 +125,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-03 19:00:24 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/crimson": {
     "criteria": {
       "has_crimson": "2025-05-03 18:38:51 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/witch_hat": {
+    "criteria": {
+      "has_potion": "2025-05-03 19:09:52 +0000"
     },
     "done": true
   },
@@ -128,6 +152,12 @@
   "create:root": {
     "criteria": {
       "0": "2025-05-03 18:38:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-03 19:00:24 +0000"
     },
     "done": true
   },
@@ -269,6 +299,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-03 19:00:24 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/gold": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-03 19:00:24 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/warped": {
     "criteria": {
       "has_warped": "2025-05-03 18:38:51 +0000"
@@ -368,6 +410,12 @@
   "fusion:bronze_hoe": {
     "criteria": {
       "has_item": "2025-05-03 18:55:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2025-05-03 19:11:12 +0000"
     },
     "done": true
   },
@@ -515,6 +563,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/decorations/chests/iron_gold_chest": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-03 19:00:24 +0000"
+    },
+    "done": true
+  },
   "lootr:1barrel": {
     "criteria": {
       "opened_barrel": "2025-05-03 18:47:34 +0000"
@@ -545,6 +599,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-03 19:00:24 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-05-03 18:59:37 +0000"
@@ -566,6 +626,12 @@
   "ironchest:recipes/decorations/chests/vanilla_iron_chest": {
     "criteria": {
       "has_iron_ingot": "2025-05-03 18:59:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-03 19:00:24 +0000"
     },
     "done": true
   },
@@ -596,6 +662,12 @@
   "doggytalents:recipes/decorations/hot_dog": {
     "criteria": {
       "has_bread": "2025-05-03 18:39:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-05-03 19:11:25 +0000"
     },
     "done": true
   },
@@ -716,6 +788,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-05-03 18:52:15 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-05-03 19:08:46 +0000"
     },
     "done": true
   },
@@ -851,6 +929,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-03 19:00:24 +0000"
+    },
+    "done": true
+  },
   "backpacked:recipes/decorations/dark_oak_backpack_shelf": {
     "criteria": {
       "has_stick": "2025-05-03 18:45:29 +0000"
@@ -962,6 +1046,12 @@
   "fusion:recipes/misc/bronze_ingot": {
     "criteria": {
       "has_item": "2025-05-03 18:55:55 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/tools/magnifying_bone": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-03 19:00:24 +0000"
     },
     "done": true
   },
@@ -1109,6 +1199,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2025-05-03 19:11:12 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/pink_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-05-03 18:59:37 +0000"
@@ -1130,6 +1226,18 @@
   "biomesoplenty:recipes/transportation/jacaranda_boat": {
     "criteria": {
       "in_water": "2025-05-03 18:52:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-05-03 19:11:25 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-05-03 19:08:57 +0000"
     },
     "done": true
   },
@@ -1253,9 +1361,27 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:witch": "2025-05-03 19:08:57 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/gold_tier_upgrade": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-03 19:00:24 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/bookshelf": {
     "criteria": {
       "has_book": "2025-05-03 18:43:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-03 19:00:24 +0000"
     },
     "done": true
   },
@@ -1409,6 +1535,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-03 19:00:24 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_toilet": {
     "criteria": {
       "has_iron_ingot": "2025-05-03 18:59:37 +0000"
@@ -1430,6 +1562,12 @@
   "refurbished_furniture:recipes/misc/constructing/acacia_bath": {
     "criteria": {
       "has_iron_ingot": "2025-05-03 18:59:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-03 19:00:24 +0000"
     },
     "done": true
   },
@@ -1565,6 +1703,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:witch": "2025-05-03 19:08:57 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/constructing/brown_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-05-03 18:59:37 +0000"
@@ -1685,9 +1829,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-03 19:08:46 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_acacia_fence": {
     "criteria": {
       "has_stick": "2025-05-03 18:45:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-03 19:00:24 +0000"
     },
     "done": true
   },
@@ -1791,6 +1947,12 @@
   "mysticsbiomes:recipes/transportation/strawberry_boat": {
     "criteria": {
       "in_water": "2025-05-03 18:52:15 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/mob_farm/monster_plains_cave_farm": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-03 19:00:24 +0000"
     },
     "done": true
   },
@@ -1908,6 +2070,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-05-03 19:08:57 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/diamond": {
     "criteria": {
       "has_diamond": "2025-05-03 19:00:23 +0000"
@@ -1971,6 +2139,12 @@
   "refurbished_furniture:recipes/misc/constructing/yellow_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-05-03 18:59:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-05-03 19:09:23 +0000"
     },
     "done": true
   },
@@ -2046,6 +2220,12 @@
     },
     "done": true
   },
+  "easy_mob_farm:recipes/upgrade/filter/no_flowers_filter": {
+    "criteria": {
+      "has_blue_orchid": "2025-05-03 19:11:12 +0000"
+    },
+    "done": true
+  },
   "lootr:1chest": {
     "criteria": {
       "opened_chest": "2025-05-03 18:39:55 +0000"
@@ -2100,6 +2280,12 @@
     },
     "done": true
   },
+  "doggytalents:recipes/tools/shrinking_mallet": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-03 19:00:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-05-03 18:55:58 +0000"
@@ -2109,6 +2295,12 @@
   "fusion:bronze_pickaxe": {
     "criteria": {
       "has_item": "2025-05-03 18:55:55 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/energizer_stick": {
+    "criteria": {
+      "has_sugar": "2025-05-03 19:09:47 +0000"
     },
     "done": true
   },
@@ -2178,6 +2370,18 @@
     },
     "done": true
   },
+  "easy_mob_farm:recipes/mob_farm_template/tier1_mob_farm_template": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-03 19:00:24 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/gold_stuff": {
+    "criteria": {
+      "has_wood": "2025-05-03 19:00:24 +0000"
+    },
+    "done": true
+  },
   "mcwlights:recipes/lava_lamp": {
     "criteria": {
       "has_wood": "2025-05-03 18:59:37 +0000"
@@ -2219,8 +2423,11 @@
       "jacaranda_glade": "2025-05-03 18:50:29 +0000",
       "orchard": "2025-05-03 18:56:41 +0000",
       "coniferous_forest": "2025-05-03 18:46:48 +0000",
+      "aspen_glade": "2025-05-03 19:01:21 +0000",
+      "seasonal_forest": "2025-05-03 19:01:15 +0000",
       "pasture": "2025-05-03 18:49:05 +0000",
       "lavender_field": "2025-05-03 18:56:48 +0000",
+      "pumpkin_patch": "2025-05-03 19:03:25 +0000",
       "prairie": "2025-05-03 18:38:52 +0000"
     },
     "done": false
@@ -2288,6 +2495,12 @@
   "refurbished_furniture:recipes/misc/constructing/black_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-05-03 18:59:37 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/tools/canine_tracker": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-03 19:00:24 +0000"
     },
     "done": true
   },
@@ -2441,6 +2654,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-05-03 19:09:23 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/harming_module": {
     "criteria": {
       "has_iron": "2025-05-03 18:59:37 +0000"
@@ -2535,6 +2754,7 @@
     "criteria": {
       "minecraft:cherry_grove": "2025-05-03 18:49:58 +0000",
       "minecraft:birch_forest": "2025-05-03 18:53:47 +0000",
+      "minecraft:sparse_jungle": "2025-05-03 19:12:44 +0000",
       "minecraft:river": "2025-05-03 18:52:15 +0000",
       "minecraft:stony_shore": "2025-05-03 18:54:02 +0000",
       "minecraft:forest": "2025-05-03 18:51:53 +0000",
@@ -2542,6 +2762,7 @@
       "minecraft:flower_forest": "2025-05-03 18:51:13 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-03 18:54:09 +0000",
       "minecraft:meadow": "2025-05-03 18:53:43 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-05-03 19:10:43 +0000",
       "minecraft:savanna": "2025-05-03 18:50:52 +0000",
       "minecraft:plains": "2025-05-03 18:50:23 +0000"
     },
@@ -2556,6 +2777,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-05-03 19:00:23 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_hammer": {
+    "criteria": {
+      "has_material": "2025-05-03 19:00:24 +0000"
     },
     "done": true
   },
@@ -2586,6 +2813,12 @@
   "doggytalents:recipes/building_blocks/food_bowl": {
     "criteria": {
       "has_iron_ingot": "2025-05-03 18:59:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-03 19:00:24 +0000"
     },
     "done": true
   },

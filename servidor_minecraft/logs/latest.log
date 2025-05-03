@@ -924,3 +924,18 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [03May2025 19:00:23.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Diamonds!]
 [03May2025 19:01:25.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ich1goM1rukuu moved too quickly! -10.042827585409213,-1.916922182193531,0.8238654745192093
 [03May2025 19:01:25.828] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3677ms or 73 ticks behind
+[03May2025 19:05:36.640] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4039ms or 80 ticks behind
+[03May2025 19:08:46.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Knowledge of Death]
+[03May2025 19:08:46.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Funeral Theft]
+[03May2025 19:08:57.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Ambush]
+[03May2025 19:08:57.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Monster Hunter]
+[03May2025 19:11:11.826] [Server thread/WARN] [tombstone/]: The death event of the player darkblader69 was canceled by another mod
+[03May2025 19:11:11.846] [Server thread/INFO] [tombstone/]: The player darkblader69 has successfully been saved
+[03May2025 19:12:11.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 was slain by Fire Dragon
+[03May2025 19:12:11.785] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for darkblader69 with unique ID travelersbackpack.standard_03.05.2025-19.12.11.dat
+[03May2025 19:12:11.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Your First Grave]
+[03May2025 19:13:25.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ich1goM1rukuu: Set own game mode to Creative Mode]
+[03May2025 19:13:49.464] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ich1goM1rukuu was kicked for floating too long!
+[03May2025 19:13:49.465] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ich1goM1rukuu lost connection: Flying is not enabled on this server
+[03May2025 19:13:49.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu left the game
+[03May2025 19:13:49.558] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
