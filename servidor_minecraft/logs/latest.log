@@ -966,3 +966,7 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [03May2025 19:30:00.365] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ich1goM1rukuu was kicked for floating too long!
 [03May2025 19:30:00.419] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ich1goM1rukuu lost connection: Flying is not enabled on this server
 [03May2025 19:30:00.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu left the game
+[03May2025 19:44:35.817] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ich1goM1rukuu[/127.212.133.0:56425] logged in with entity id 31023 at (-1160.572684931434, 68.26381100198832, -494.5681004030715)
+[03May2025 19:44:35.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu joined the game
+[03May2025 19:44:35.869] [Server thread/INFO] [Jade/]: Syncing config to Ich1goM1rukuu (1bb4c909-b771-3893-aca7-1b6637a25cff)
+[03May2025 19:44:52.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ich1goM1rukuu: Set own game mode to Survival Mode]
