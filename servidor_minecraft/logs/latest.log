@@ -939,3 +939,21 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [03May2025 19:13:49.465] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ich1goM1rukuu lost connection: Flying is not enabled on this server
 [03May2025 19:13:49.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu left the game
 [03May2025 19:13:49.558] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03May2025 19:14:36.905] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3bbd3863[id=<null>,name=Ich1goM1rukuu,properties={},legacy=false] (/127.212.133.0:43575) lost connection: Disconnected
+[03May2025 19:14:52.705] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ich1goM1rukuu[/127.212.133.0:57035] logged in with entity id 28932 at (-1160.5514548653587, 64.28163269236775, -494.523938377354)
+[03May2025 19:14:52.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu joined the game
+[03May2025 19:14:52.757] [Server thread/INFO] [Jade/]: Syncing config to Ich1goM1rukuu (1bb4c909-b771-3893-aca7-1b6637a25cff)
+[03May2025 19:15:14.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ich1goM1rukuu was kicked for floating too long!
+[03May2025 19:15:14.116] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ich1goM1rukuu lost connection: Flying is not enabled on this server
+[03May2025 19:15:14.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu left the game
+[03May2025 19:16:04.929] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ich1goM1rukuu[/127.212.133.0:55783] logged in with entity id 29241 at (-1160.5514548653587, 64.28163269236775, -494.523938377354)
+[03May2025 19:16:04.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu joined the game
+[03May2025 19:16:04.975] [Server thread/INFO] [Jade/]: Syncing config to Ich1goM1rukuu (1bb4c909-b771-3893-aca7-1b6637a25cff)
+[03May2025 19:16:25.715] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ich1goM1rukuu was kicked for floating too long!
+[03May2025 19:16:25.766] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ich1goM1rukuu lost connection: Flying is not enabled on this server
+[03May2025 19:16:25.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu left the game
+[03May2025 19:16:52.419] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ich1goM1rukuu[/127.212.133.0:34033] logged in with entity id 29570 at (-1160.572684931434, 68.26381100198832, -494.5681004030715)
+[03May2025 19:16:52.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu joined the game
+[03May2025 19:16:52.499] [Server thread/INFO] [Jade/]: Syncing config to Ich1goM1rukuu (1bb4c909-b771-3893-aca7-1b6637a25cff)
+[03May2025 19:17:22.563] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ich1goM1rukuu lost connection: Timed out
+[03May2025 19:17:22.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu left the game
