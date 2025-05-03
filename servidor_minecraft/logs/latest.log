@@ -876,3 +876,8 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [03May2025 20:26:04.909] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2205ms or 44 ticks behind
 [03May2025 20:26:21.624] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ich1goM1rukuu lost connection: Disconnected
 [03May2025 20:26:21.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu left the game
+[03May2025 20:28:02.159] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: darkblader69[/127.236.37.64:43779] logged in with entity id 1107 at (-1902.5786727682316, 69.0625, -1929.8197604495363)
+[03May2025 20:28:02.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 joined the game
+[03May2025 20:28:02.255] [Server thread/INFO] [Jade/]: Syncing config to darkblader69 (c5ed7fb1-b56d-3780-a140-29be33768a49)
+[03May2025 20:29:56.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Rotten to the Core]
+[03May2025 20:30:31.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Close Quarters]
