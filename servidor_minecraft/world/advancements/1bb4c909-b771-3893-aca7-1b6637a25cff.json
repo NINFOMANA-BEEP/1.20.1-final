@@ -53,5 +53,17 @@
     },
     "done": false
   },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "prairie": "2025-05-04 09:44:25 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "prairie": "2025-05-04 09:44:25 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }

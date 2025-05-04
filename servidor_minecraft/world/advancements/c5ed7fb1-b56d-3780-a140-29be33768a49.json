@@ -354,6 +354,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:witch": "2025-05-04 09:41:51 +0000"
+    },
+    "done": false
+  },
   "fairyfactions:recipes/decorations/mangrove_cyan_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-04 09:26:23 +0000"
@@ -378,6 +384,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/crimson_light_ceiling_fan": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-04 09:41:52 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/oak_brown_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-04 09:26:23 +0000"
@@ -387,6 +399,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_lattice_fence_gate": {
     "criteria": {
       "has_oak_planks": "2025-05-04 09:26:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_light_ceiling_fan": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-04 09:41:52 +0000"
     },
     "done": true
   },
@@ -411,6 +429,12 @@
   "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence": {
     "criteria": {
       "has_stick": "2025-05-04 09:26:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_light_ceiling_fan": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-04 09:41:52 +0000"
     },
     "done": true
   },
@@ -495,6 +519,12 @@
   "fairyfactions:recipes/decorations/mangrove_lime_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-04 09:26:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_light_ceiling_fan": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-04 09:41:52 +0000"
     },
     "done": true
   },
@@ -648,6 +678,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/jungle_light_ceiling_fan": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-04 09:41:52 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "jacaranda_glade": "2025-05-04 09:30:17 +0000"
@@ -693,6 +729,12 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-05-04 09:26:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_light_ceiling_fan": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-04 09:41:52 +0000"
     },
     "done": true
   },
@@ -876,6 +918,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-04 09:41:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_light_ceiling_fan": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-04 09:41:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_light_ceiling_fan": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-04 09:41:52 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/misc/fairy_wand": {
     "criteria": {
       "has_stick": "2025-05-04 09:26:42 +0000"
@@ -927,6 +987,12 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-05-04 09:26:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_ceiling_light": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-04 09:41:52 +0000"
     },
     "done": true
   },
@@ -1116,6 +1182,18 @@
     },
     "done": true
   },
+  "doggytalents:recipes/food/uncooked_rice_bowl": {
+    "criteria": {
+      "has_dtn_rice_grains": "2025-05-04 09:44:40 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-04 09:43:55 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/jungle_light_gray_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-04 09:26:23 +0000"
@@ -1178,7 +1256,9 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "jacaranda_glade": "2025-05-04 09:30:17 +0000"
+      "highland": "2025-05-04 09:42:59 +0000",
+      "jacaranda_glade": "2025-05-04 09:30:17 +0000",
+      "prairie": "2025-05-04 09:43:38 +0000"
     },
     "done": false
   },
@@ -1260,6 +1340,12 @@
     },
     "done": true
   },
+  "material_elements:recipes/brewing/test_tube_glow_from_glowing_item": {
+    "criteria": {
+      "has_glowing_item": "2025-05-04 09:41:52 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/mangrove_magenta_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-04 09:26:23 +0000"
@@ -1299,6 +1385,12 @@
   "fairyfactions:recipes/decorations/birch_pink_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-04 09:26:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-05-04 09:37:17 +0000"
     },
     "done": true
   },
@@ -1500,6 +1592,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-05-04 09:41:51 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/mangrove_light_gray_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-04 09:26:23 +0000"
@@ -1557,6 +1655,12 @@
   "fairyfactions:recipes/decorations/dark_oak_black_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-04 09:26:23 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/training_treat": {
+    "criteria": {
+      "has_dtn_rice_grains": "2025-05-04 09:44:40 +0000"
     },
     "done": true
   },
@@ -1704,6 +1808,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-04 09:41:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/oak_window": {
     "criteria": {
       "has_ingredient": "2025-05-04 09:26:28 +0000"
@@ -1719,6 +1829,12 @@
   "refurbished_furniture:recipes/misc/constructing/white_sofa": {
     "criteria": {
       "has_planks": "2025-05-04 09:26:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:witch": "2025-05-04 09:41:51 +0000"
     },
     "done": true
   },
@@ -1782,6 +1898,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2025-05-04 09:37:17 +0000"
+    },
+    "done": false
+  },
   "fairyfactions:recipes/decorations/mangrove_green_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-04 09:26:23 +0000"
@@ -1833,6 +1955,12 @@
   "fairyfactions:recipes/decorations/jungle_light_blue_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-04 09:26:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_light_ceiling_fan": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-04 09:41:52 +0000"
     },
     "done": true
   },

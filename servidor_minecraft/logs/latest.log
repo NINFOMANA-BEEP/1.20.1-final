@@ -861,3 +861,28 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [04May2025 09:38:46.768] [Server thread/INFO] [Jade/]: Syncing config to Ich1goM1rukuu (1bb4c909-b771-3893-aca7-1b6637a25cff)
 [04May2025 09:39:11.687] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ich1goM1rukuu lost connection: Disconnected
 [04May2025 09:39:11.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu left the game
+[04May2025 09:41:51.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Ambush]
+[04May2025 09:41:51.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Monster Hunter]
+[04May2025 09:42:56.241] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ich1goM1rukuu[/127.212.133.0:33601] logged in with entity id 4496 at (362.5, 77.0, -204.5)
+[04May2025 09:42:56.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu joined the game
+[04May2025 09:42:56.375] [Server thread/INFO] [Jade/]: Syncing config to Ich1goM1rukuu (1bb4c909-b771-3893-aca7-1b6637a25cff)
+[04May2025 09:43:55.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Knowledge raises the soul]
+[04May2025 09:44:24.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Teleported Ich1goM1rukuu to darkblader69]
+[04May2025 09:45:18.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Set the time to 1000]
+[04May2025 09:47:07.285] [Server thread/INFO] [FTB Chunks/]: attempting to transfer 1 chunks from Ich1goM1rukuu#1bb4c909 to muamua#0dfe8330
+[04May2025 09:47:07.287] [Server thread/INFO] [FTB Chunks/]: Transferred 1 chunks from 1bb4c909-b771-3893-aca7-1b6637a25cff (Ich1goM1rukuu#1bb4c909) to 0dfe8330-9ef3-4654-bf3c-3c11e4f78e3b (muamua#0dfe8330)
+[04May2025 09:47:07.287] [Server thread/INFO] [FTB Chunks/]: Unclaimed 0 chunks for 1bb4c909-b771-3893-aca7-1b6637a25cff (Ich1goM1rukuu#1bb4c909) due to claim limits
+[04May2025 09:47:07.287] [Server thread/INFO] [FTB Chunks/]: Team muamua#0dfe8330 had 0 claimed chunks, now has 1
+[04May2025 09:48:01.832] [Server thread/INFO] [FTB Chunks/]: attempting to transfer 0 chunks from darkblader69#c5ed7fb1 to muamua#0dfe8330
+[04May2025 09:48:01.833] [Server thread/INFO] [FTB Chunks/]: Transferred 0 chunks from c5ed7fb1-b56d-3780-a140-29be33768a49 (darkblader69#c5ed7fb1) to 0dfe8330-9ef3-4654-bf3c-3c11e4f78e3b (muamua#0dfe8330)
+[04May2025 09:48:01.833] [Server thread/INFO] [FTB Chunks/]: Unclaimed 0 chunks for c5ed7fb1-b56d-3780-a140-29be33768a49 (darkblader69#c5ed7fb1) due to claim limits
+[04May2025 09:48:01.833] [Server thread/INFO] [FTB Chunks/]: Team muamua#0dfe8330 had 1 claimed chunks, now has 1
+[04May2025 09:48:26.541] [Server thread/INFO] [FTB Chunks/]: attempting to transfer 0 chunks from muamua#0dfe8330 to darkblader69#c5ed7fb1
+[04May2025 09:48:26.541] [Server thread/INFO] [FTB Chunks/]: Transferred 0 chunks from 0dfe8330-9ef3-4654-bf3c-3c11e4f78e3b (muamua#0dfe8330) to c5ed7fb1-b56d-3780-a140-29be33768a49 (darkblader69#c5ed7fb1)
+[04May2025 09:48:26.541] [Server thread/INFO] [FTB Chunks/]: Unclaimed 0 chunks for 0dfe8330-9ef3-4654-bf3c-3c11e4f78e3b (muamua#0dfe8330) due to claim limits
+[04May2025 09:48:26.541] [Server thread/INFO] [FTB Chunks/]: Team darkblader69#c5ed7fb1 had 0 claimed chunks, now has 0
+[04May2025 09:49:16.268] [Server thread/INFO] [FTB Chunks/]: attempting to transfer 1 chunks from muamua#0dfe8330 to Ich1goM1rukuu#1bb4c909
+[04May2025 09:49:16.269] [Server thread/INFO] [FTB Chunks/]: Transferred 1 chunks from 0dfe8330-9ef3-4654-bf3c-3c11e4f78e3b (muamua#0dfe8330) to 1bb4c909-b771-3893-aca7-1b6637a25cff (Ich1goM1rukuu#1bb4c909)
+[04May2025 09:49:16.269] [Server thread/INFO] [FTB Chunks/]: Unclaimed 0 chunks for 0dfe8330-9ef3-4654-bf3c-3c11e4f78e3b (muamua#0dfe8330) due to claim limits
+[04May2025 09:49:16.269] [Server thread/INFO] [FTB Chunks/]: Team Ich1goM1rukuu#1bb4c909 had 0 claimed chunks, now has 1
+[04May2025 09:49:41.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Stone Age]
