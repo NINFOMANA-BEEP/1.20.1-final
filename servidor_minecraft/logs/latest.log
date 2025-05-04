@@ -1270,3 +1270,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [04May2025 15:01:55.334] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6014, y=131, z=-4149} BlockPos{x=-6013, y=130, z=-4151}
 [04May2025 15:01:55.363] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6014, y=131, z=-4149} BlockPos{x=-6013, y=130, z=-4151}
 [04May2025 15:01:59.414] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6011, y=132, z=-4152} BlockPos{x=-6012, y=131, z=-4153}
+[04May2025 15:08:34.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Dragon Growth Hormone]
+[04May2025 15:13:39.254] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Ich1goM1rukuu) moved wrongly! 0.9150225124103599
+[04May2025 15:13:39.330] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Ich1goM1rukuu) moved wrongly! 0.9556528872308263
+[04May2025 15:13:39.357] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Ich1goM1rukuu) moved wrongly! 0.9955622396919352
+[04May2025 15:13:45.852] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Ich1goM1rukuu) moved wrongly! 0.86553324270335
+[04May2025 15:13:45.903] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Ich1goM1rukuu) moved wrongly! 1.7995886877042722
+[04May2025 15:13:45.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Ich1goM1rukuu) moved wrongly! 0.8830862645800153
+[04May2025 15:13:46.002] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Ich1goM1rukuu) moved wrongly! 1.6324477573080056
+[04May2025 15:13:51.934] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ich1goM1rukuu lost connection: Timed out
+[04May2025 15:13:51.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu left the game
+[04May2025 15:13:51.996] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04May2025 15:14:56.360] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ich1goM1rukuu[/127.212.133.0:53501] logged in with entity id 140243 at (-5921.420888914102, 94.11211085319519, -4130.421939068323)
+[04May2025 15:14:56.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu joined the game
+[04May2025 15:14:57.195] [Server thread/INFO] [Jade/]: Syncing config to Ich1goM1rukuu (1bb4c909-b771-3893-aca7-1b6637a25cff)
