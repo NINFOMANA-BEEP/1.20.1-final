@@ -122,6 +122,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-04 09:56:22 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/spruce_brown_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-04 09:47:05 +0000"
@@ -500,6 +506,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/netherite_hammer": {
+    "criteria": {
+      "has_material": "2025-05-04 09:56:22 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/jungle_black_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-04 09:47:05 +0000"
@@ -740,6 +752,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-05-04 09:56:43 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/brown_cooler": {
     "criteria": {
       "has_planks": "2025-05-04 09:54:35 +0000"
@@ -827,6 +845,12 @@
   "securitycraft:recipes/misc/security_camera": {
     "criteria": {
       "has_iron": "2025-05-04 09:55:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-04 09:56:22 +0000"
     },
     "done": true
   },
@@ -929,6 +953,12 @@
   "fairyfactions:recipes/decorations/cherry_blue_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-04 09:47:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-04 09:56:22 +0000"
     },
     "done": true
   },
@@ -1112,6 +1142,12 @@
     },
     "done": true
   },
+  "material_elements:recipes/refining/netherite_nugget_from_netherite_ingot": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-04 09:56:22 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/acacia_brown_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-04 09:47:05 +0000"
@@ -1133,6 +1169,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_kitchen_storage_cabinet": {
     "criteria": {
       "has_oak_planks": "2025-05-04 09:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-04 09:56:22 +0000"
     },
     "done": true
   },
@@ -1289,6 +1331,12 @@
   "fairyfactions:recipes/decorations/cherry_light_blue_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-04 09:47:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-05-04 09:58:30 +0000"
     },
     "done": true
   },
@@ -1466,6 +1514,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-04 09:58:30 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/magenta_grill": {
     "criteria": {
       "has_iron_ingot": "2025-05-04 09:55:49 +0000"
@@ -1481,6 +1535,12 @@
   "buntsy:recipes/misc/mixer_block": {
     "criteria": {
       "has_iron_ingot": "2025-05-04 09:55:49 +0000"
+    },
+    "done": true
+  },
+  "material_elements:recipes/rods/netherite_rod_from_netherite_ingot": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-04 09:56:22 +0000"
     },
     "done": true
   },
@@ -1736,9 +1796,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-04 09:56:22 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/birch_light_gray_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-04 09:47:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-05-04 09:58:19 +0000"
     },
     "done": true
   },
@@ -1796,6 +1868,12 @@
     },
     "done": true
   },
+  "enchantinginfuser:recipes/decorations/advanced_enchanting_infuser": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-04 09:56:22 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/disguise_module": {
     "criteria": {
       "has_iron": "2025-05-04 09:55:49 +0000"
@@ -1850,6 +1928,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-05-04 09:56:39 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/spruce_orange_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-04 09:47:05 +0000"
@@ -1871,6 +1955,12 @@
   "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
       "has_brick": "2025-05-04 09:54:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-04 09:56:22 +0000"
     },
     "done": true
   },
@@ -1967,6 +2057,12 @@
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-05-04 09:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-04 09:56:22 +0000"
     },
     "done": true
   },
@@ -2298,6 +2394,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-04 09:56:22 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-05-04 09:54:35 +0000"
@@ -2436,6 +2538,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-04 09:56:22 +0000"
+    },
+    "done": true
+  },
   "mysticsbiomes:recipes/building_blocks/strawberry_planks": {
     "criteria": {
       "has_logs": "2025-05-04 09:47:05 +0000"
@@ -2469,6 +2577,12 @@
   "refurbished_furniture:recipes/misc/constructing/television": {
     "criteria": {
       "has_iron_ingot": "2025-05-04 09:55:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-04 09:56:22 +0000"
     },
     "done": true
   },
@@ -2562,6 +2676,12 @@
     },
     "done": true
   },
+  "doggytalents:recipes/misc/amnesia_bone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-04 09:56:22 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/mahogany_boat": {
     "criteria": {
       "in_water": "2025-05-04 09:49:41 +0000"
@@ -2625,6 +2745,12 @@
   "fairyfactions:recipes/decorations/dark_oak_black_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-04 09:47:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_omega_tier": {
+    "criteria": {
+      "has_stack_upgrade_tier_4": "2025-05-04 09:58:04 +0000"
     },
     "done": true
   },
@@ -2862,6 +2988,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-05-04 09:56:35 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/decorations/locator_orb_tei": {
     "criteria": {
       "has_string": "2025-05-04 09:54:35 +0000"
@@ -2922,6 +3054,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/auto_smoking_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2025-05-04 10:04:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-05-04 09:55:57 +0000"
@@ -2952,6 +3090,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-04 09:56:22 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/birch_black_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-04 09:47:05 +0000"
@@ -2961,6 +3105,12 @@
   "refurbished_furniture:recipes/misc/constructing/black_stool": {
     "criteria": {
       "has_planks": "2025-05-04 09:54:35 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/auto_blasting_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2025-05-04 10:04:51 +0000"
     },
     "done": true
   },
