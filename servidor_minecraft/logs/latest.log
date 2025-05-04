@@ -1214,3 +1214,34 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [04May2025 14:11:13.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Teleported darkblader69 to Ich1goM1rukuu]
 [04May2025 14:11:31.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has reached the goal [Bone Crusher]
 [04May2025 14:14:15.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Teleported darkblader69 to Ich1goM1rukuu]
+[04May2025 14:16:09.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Sneak 100]
+[04May2025 14:16:13.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Chest Slayer]
+[04May2025 14:17:03.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Teleported Ich1goM1rukuu to darkblader69]
+[04May2025 14:19:11.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Teleported darkblader69 to Ich1goM1rukuu]
+[04May2025 14:19:28.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Teleported Ich1goM1rukuu to darkblader69]
+[04May2025 14:23:14.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has completed the challenge [It Spreads]
+[04May2025 14:23:38.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has completed the challenge [It Spreads]
+[04May2025 14:24:52.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Teleported darkblader69 to Ich1goM1rukuu]
+[04May2025 14:24:59.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Set own game mode to Spectator Mode]
+[04May2025 14:26:12.196] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element mysticsbiomes:strawberry_fields took 77 ms
+[04May2025 14:26:17.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ich1goM1rukuu: Teleported Ich1goM1rukuu to -7737.500000, 174.000000, -9961.500000]
+[04May2025 14:26:19.050] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ich1goM1rukuu moved too quickly! 0.0,-11.064980402202309,0.0
+[04May2025 14:26:21.999] [Server thread/WARN] [tombstone/]: The death event of the player Ich1goM1rukuu was canceled by another mod
+[04May2025 14:26:22.001] [Server thread/INFO] [tombstone/]: The player Ich1goM1rukuu has successfully been saved
+[04May2025 14:26:44.003] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3283ms or 65 ticks behind
+[04May2025 14:26:50.602] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6146, y=65, z=-5476} BlockPos{x=-6147, y=65, z=-5476}
+[04May2025 14:27:04.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Teleported Ich1goM1rukuu to darkblader69]
+[04May2025 14:27:22.037] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element mysticsbiomes:strawberry_fields took 494 ms
+[04May2025 14:27:27.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ich1goM1rukuu: Teleported Ich1goM1rukuu to -6048.500000, 71.000000, -4487.500000]
+[04May2025 14:27:27.692] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3472ms or 69 ticks behind
+[04May2025 14:27:45.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Teleported darkblader69 to Ich1goM1rukuu]
+[04May2025 14:28:17.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Chompy]
+[04May2025 14:28:35.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Teleported darkblader69 to Ich1goM1rukuu]
+[04May2025 14:29:29.449] [Server thread/WARN] [tombstone/]: The death event of the player Ich1goM1rukuu was canceled by another mod
+[04May2025 14:29:29.450] [Server thread/INFO] [tombstone/]: The player Ich1goM1rukuu has successfully been saved
+[04May2025 14:30:42.627] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ich1goM1rukuu moved too quickly! -3.0798476885202035,0.0,9.677617599588302
+[04May2025 14:30:42.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: darkblader69 moved too quickly! -7.997797199569504,-0.8378585789729982,6.058984283944483
+[04May2025 14:30:42.632] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2761ms or 55 ticks behind
+[04May2025 14:31:09.057] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[04May2025 14:31:40.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Voluntary Exile]
+[04May2025 14:33:36.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Teleported darkblader69 to Ich1goM1rukuu]

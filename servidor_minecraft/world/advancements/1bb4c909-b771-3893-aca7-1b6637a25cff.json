@@ -127,6 +127,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-04 14:20:02 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/cherry_pink_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-04 09:47:05 +0000"
@@ -427,6 +433,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-05-04 14:19:47 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/red_lamp": {
     "criteria": {
       "has_planks": "2025-05-04 09:54:35 +0000"
@@ -511,6 +523,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-04 14:20:02 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2025-05-04 09:49:41 +0000"
@@ -520,6 +538,18 @@
   "doggytalents:recipes/decorations/superdog_suit": {
     "criteria": {
       "has_iron_ingot": "2025-05-04 09:55:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-05-04 14:19:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-05-04 14:19:47 +0000"
     },
     "done": true
   },
@@ -697,6 +727,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-05-04 14:19:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-05-04 10:29:00 +0000"
@@ -808,6 +844,12 @@
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-05-04 10:20:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-04 14:20:02 +0000"
     },
     "done": true
   },
@@ -1200,6 +1242,7 @@
       "minecraft:skeleton": "2025-05-04 10:28:50 +0000",
       "minecraft:spider": "2025-05-04 11:22:31 +0000",
       "minecraft:creeper": "2025-05-04 14:02:59 +0000",
+      "minecraft:wither_skeleton": "2025-05-04 14:15:03 +0000",
       "minecraft:cave_spider": "2025-05-04 13:21:06 +0000",
       "minecraft:stray": "2025-05-04 10:52:42 +0000",
       "minecraft:zombie": "2025-05-04 11:21:28 +0000",
@@ -1270,6 +1313,12 @@
   "miniutilities:recipes/misc/etheric_sword": {
     "criteria": {
       "has_item": "2025-05-04 11:14:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-04 14:20:02 +0000"
     },
     "done": true
   },
@@ -1465,6 +1514,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-05-04 14:14:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/andesite_alloy": {
     "criteria": {
       "has_item": "2025-05-04 09:55:49 +0000"
@@ -1513,6 +1568,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-04 14:20:02 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/dead_boat": {
     "criteria": {
       "in_water": "2025-05-04 09:49:41 +0000"
@@ -1522,6 +1583,12 @@
   "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
       "coded_trigger": "2025-05-04 12:13:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-04 14:20:02 +0000"
     },
     "done": true
   },
@@ -1873,6 +1940,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-04 14:20:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_pump": {
     "criteria": {
       "has_item": "2025-05-04 12:01:04 +0000"
@@ -1999,6 +2072,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-05-04 14:19:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2025-05-04 13:37:39 +0000"
@@ -2114,6 +2193,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-05-04 14:19:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_boots_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-05-04 09:56:22 +0000"
@@ -2141,6 +2226,12 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-05-04 13:26:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_bricks_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-05-04 14:19:47 +0000"
     },
     "done": true
   },
@@ -2231,6 +2322,12 @@
   "securitycraft:recipes/misc/keycard_lv2": {
     "criteria": {
       "has_iron": "2025-05-04 09:55:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-04 14:20:02 +0000"
     },
     "done": true
   },
@@ -2504,6 +2601,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-04 14:19:47 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-04 11:49:36 +0000"
@@ -2702,6 +2805,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-04 14:20:02 +0000"
+    },
+    "done": true
+  },
   "miniutilities:recipes/misc/precision_shears": {
     "criteria": {
       "has_item": "2025-05-04 11:14:54 +0000"
@@ -2828,6 +2937,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-05-04 14:19:47 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_dark_oak_fence_gate": {
     "criteria": {
       "has_stick": "2025-05-04 10:20:07 +0000"
@@ -2903,6 +3018,12 @@
   "securitycraft:recipes/tools/taser": {
     "criteria": {
       "has_redstone": "2025-05-04 10:29:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-05-04 14:19:47 +0000"
     },
     "done": true
   },
@@ -3011,6 +3132,12 @@
   "refurbished_furniture:recipes/misc/constructing/magenta_sofa": {
     "criteria": {
       "has_planks": "2025-05-04 09:54:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-05-04 14:19:47 +0000"
     },
     "done": true
   },
@@ -3176,6 +3303,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-04 14:19:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-05-04 11:40:19 +0000"
@@ -3239,6 +3372,12 @@
   "refurbished_furniture:recipes/misc/constructing/cyan_stool": {
     "criteria": {
       "has_planks": "2025-05-04 09:54:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-05-04 14:19:47 +0000"
     },
     "done": true
   },
@@ -3560,6 +3699,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/layered_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-05-04 14:19:47 +0000"
+    },
+    "done": true
+  },
   "miniutilities:recipes/misc/unpack1x": {
     "criteria": {
       "has_item": "2025-05-04 11:14:54 +0000"
@@ -3740,6 +3885,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-04 14:20:02 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/magenta_trampoline": {
     "criteria": {
       "has_string": "2025-05-04 09:54:35 +0000"
@@ -3773,6 +3924,12 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-04 10:31:38 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-05-04 14:16:13 +0000"
     },
     "done": true
   },
@@ -3845,6 +4002,12 @@
   "refurbished_furniture:recipes/misc/constructing/mangrove_bath": {
     "criteria": {
       "has_iron_ingot": "2025-05-04 09:55:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-05-04 14:14:12 +0000"
     },
     "done": true
   },
@@ -3965,6 +4128,12 @@
   "fairyfactions:recipes/decorations/dark_oak_purple_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-04 09:47:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-04 14:20:02 +0000"
     },
     "done": true
   },
@@ -4598,6 +4767,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-04 14:19:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_bricks": "2025-05-04 10:41:19 +0000"
@@ -4676,6 +4851,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-04 14:20:02 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/universal_block_reinforcer_lvl3": {
     "criteria": {
       "has_redstone": "2025-05-04 10:29:00 +0000"
@@ -4742,9 +4923,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-05-04 14:19:47 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/tools/throw_bone": {
     "criteria": {
       "has_bone": "2025-05-04 10:21:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
+    "criteria": {
+      "has_dragonscales_bronze": "2025-05-04 14:28:40 +0000"
     },
     "done": true
   },
@@ -4763,6 +4956,12 @@
   "create:recipes/misc/crafting/schematics/schematic_and_quill": {
     "criteria": {
       "has_item": "2025-05-04 11:39:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-05-04 14:19:47 +0000"
     },
     "done": true
   },
@@ -4862,6 +5061,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-04 14:19:47 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/copper_shingles_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-05-04 12:01:04 +0000"
@@ -4919,6 +5124,12 @@
   "miniutilities:recipes/misc/experience_pearl_4x": {
     "criteria": {
       "has_item": "2025-05-04 11:14:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_boots": {
+    "criteria": {
+      "has_item": "2025-05-04 14:28:40 +0000"
     },
     "done": true
   },
@@ -5006,9 +5217,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_bronze_leggings": {
+    "criteria": {
+      "has_item": "2025-05-04 14:28:40 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/decorations/locator_orb_rei": {
     "criteria": {
       "has_string": "2025-05-04 09:54:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-04 14:20:02 +0000"
     },
     "done": true
   },
@@ -5057,6 +5280,12 @@
   "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
     "criteria": {
       "has_book": "2025-05-04 11:24:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_pillar_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-04 14:20:02 +0000"
     },
     "done": true
   },
@@ -5420,6 +5649,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-04 14:20:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-04 11:49:36 +0000"
@@ -5507,6 +5742,12 @@
   "iceandfire:recipes/combat/armor_black_chestplate": {
     "criteria": {
       "has_item": "2025-05-04 13:25:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-04 14:19:47 +0000"
     },
     "done": true
   },
@@ -5834,6 +6075,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_andesite_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-05-04 14:19:47 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/copper_ladder_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-05-04 12:01:04 +0000"
@@ -5864,9 +6111,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-04 14:19:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-05-04 09:55:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-05-04 14:19:47 +0000"
     },
     "done": true
   },
@@ -5897,6 +6156,12 @@
   "miniutilities:recipes/misc/chorus_opinium_core": {
     "criteria": {
       "has_item": "2025-05-04 11:14:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/andesite_stepping_stones": {
+    "criteria": {
+      "has_andesite": "2025-05-04 14:19:47 +0000"
     },
     "done": true
   },
@@ -6188,6 +6453,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-05-04 14:23:14 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/spruce_black_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-04 09:47:05 +0000"
@@ -6305,6 +6576,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-05-04 10:20:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-05-04 14:19:47 +0000"
     },
     "done": true
   },
@@ -6434,6 +6711,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-05-04 14:19:47 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/food/training_treat": {
     "criteria": {
       "has_dtn_rice_grains": "2025-05-04 11:31:09 +0000"
@@ -6473,6 +6756,12 @@
   "biomesoplenty:recipes/transportation/palm_boat": {
     "criteria": {
       "in_water": "2025-05-04 09:49:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-05-04 14:19:47 +0000"
     },
     "done": true
   },
@@ -6536,6 +6825,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-05-04 14:19:47 +0000"
+    },
+    "done": true
+  },
   "miniutilities:recipes/misc/netherite_reinforced_drum": {
     "criteria": {
       "has_item": "2025-05-04 11:14:54 +0000"
@@ -6572,6 +6867,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-05-04 14:19:47 +0000"
+    },
+    "done": true
+  },
   "mysticsbiomes:recipes/transportation/sea_foam_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-04 11:49:36 +0000"
@@ -6581,6 +6882,12 @@
   "securitycraft:recipes/redstone/reinforced_mangrove_fence_gate": {
     "criteria": {
       "has_stick": "2025-05-04 10:20:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-04 14:20:02 +0000"
     },
     "done": true
   },
@@ -6605,6 +6912,12 @@
   "refurbished_furniture:recipes/misc/constructing/black_lamp": {
     "criteria": {
       "has_planks": "2025-05-04 09:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-05-04 14:14:12 +0000"
     },
     "done": true
   },
@@ -6707,6 +7020,18 @@
   "create:recipes/misc/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2025-05-04 12:01:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-05-04 14:16:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-04 14:20:02 +0000"
     },
     "done": true
   },
@@ -7028,6 +7353,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-05-04 14:19:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-05-04 14:19:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2025-05-04 12:35:04 +0000"
@@ -7109,6 +7446,12 @@
   "refurbished_furniture:recipes/misc/constructing/yellow_grill": {
     "criteria": {
       "has_iron_ingot": "2025-05-04 09:55:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-04 14:28:40 +0000"
     },
     "done": true
   },
@@ -7211,6 +7554,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-04 14:20:02 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/mangrove_pink_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-04 09:47:05 +0000"
@@ -7298,6 +7647,12 @@
   "refurbished_furniture:recipes/misc/constructing/orange_cooler": {
     "criteria": {
       "has_planks": "2025-05-04 09:54:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_helmet": {
+    "criteria": {
+      "has_item": "2025-05-04 14:28:40 +0000"
     },
     "done": true
   },
@@ -7496,6 +7851,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-05-04 09:55:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-04 14:20:02 +0000"
     },
     "done": true
   },
