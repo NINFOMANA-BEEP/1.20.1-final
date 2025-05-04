@@ -1005,3 +1005,18 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [04May2025 11:31:33.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 left the game
 [04May2025 11:37:43.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Tie me to the Mast]
 [04May2025 11:38:58.788] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4418ms or 88 ticks behind
+[04May2025 11:42:17.078] [Server thread/WARN] [tombstone/]: The death event of the player Ich1goM1rukuu was canceled by another mod
+[04May2025 11:42:17.082] [Server thread/INFO] [tombstone/]: The player Ich1goM1rukuu has successfully been saved
+[04May2025 11:42:50.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Sea? Not a Problem]
+[04May2025 11:44:16.880] [Server thread/WARN] [tombstone/]: The death event of the player Ich1goM1rukuu was canceled by another mod
+[04May2025 11:44:16.885] [Server thread/INFO] [tombstone/]: The player Ich1goM1rukuu has successfully been saved
+[04May2025 11:48:13.056] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-400, y=64, z=-257} BlockPos{x=-400, y=62, z=-255}
+[04May2025 11:48:13.100] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-400, y=64, z=-257} BlockPos{x=-400, y=62, z=-255}
+[04May2025 11:51:59.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Knowledge of Death]
+[04May2025 11:51:59.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has reached the goal [Strong or Careful]
+[04May2025 11:51:59.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu was turned to stone by Gorgon
+[04May2025 11:51:59.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Your First Grave]
+[04May2025 11:51:59.287] [Server thread/INFO] [tombstone/]: The player Ich1goM1rukuu has successfully been saved
+[04May2025 11:52:15.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Knowledge raises the soul]
+[04May2025 11:53:13.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Ashes 'n Bones]
+[04May2025 11:53:14.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Clash of the Titans]
