@@ -13029,3 +13029,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [04May2025 10:29:18.803] [Server thread/INFO] [tombstone/]: The player Ich1goM1rukuu has successfully been saved
 [04May2025 10:29:21.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Teleported Ich1goM1rukuu to darkblader69]
 [04May2025 10:30:36.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Teleported darkblader69 to Ich1goM1rukuu]
+[04May2025 10:30:50.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Teleported darkblader69 to Ich1goM1rukuu]
+[04May2025 10:31:14.960] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 10:31:15.001] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 10:31:18.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Draconic Evolution]
+[04May2025 10:31:23.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Draconic Evolution]
+[04May2025 10:31:41.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Isn't It Iron Pick]
+[04May2025 10:32:57.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Dragonslayer]
+[04May2025 10:33:26.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Diamonds!]
+[04May2025 10:33:33.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Suit Up]
+[04May2025 10:33:50.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Teleported Ich1goM1rukuu to darkblader69]
+[04May2025 10:35:29.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Ice Bucket Challenge]
+[04May2025 10:35:50.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Close Quarters]
+[04May2025 10:36:14.959] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 10:36:14.999] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 10:39:30.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Suit Up]
+[04May2025 10:39:59.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Close Quarters]
