@@ -49,12 +49,22 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-05-04 12:40:58 +0000",
       "minecraft:taiga": "2025-05-04 12:25:41 +0000",
+      "minecraft:deep_ocean": "2025-05-04 13:01:16 +0000",
+      "minecraft:cherry_grove": "2025-05-04 13:15:57 +0000",
+      "minecraft:birch_forest": "2025-05-04 12:51:41 +0000",
       "minecraft:beach": "2025-05-04 12:25:54 +0000",
       "minecraft:river": "2025-05-04 10:20:13 +0000",
+      "minecraft:lukewarm_ocean": "2025-05-04 12:51:32 +0000",
       "minecraft:stony_shore": "2025-05-04 09:52:14 +0000",
       "minecraft:forest": "2025-05-04 12:27:46 +0000",
+      "minecraft:ocean": "2025-05-04 12:51:38 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-05-04 12:41:14 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-05-04 12:50:45 +0000",
       "minecraft:flower_forest": "2025-05-04 09:22:49 +0000",
+      "minecraft:meadow": "2025-05-04 12:53:31 +0000",
+      "minecraft:savanna": "2025-05-04 12:48:03 +0000",
       "minecraft:plains": "2025-05-04 09:30:16 +0000"
     },
     "done": false
@@ -1855,16 +1865,24 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "shrubland": "2025-05-04 13:03:57 +0000",
       "highland": "2025-05-04 09:42:59 +0000",
       "jacaranda_glade": "2025-05-04 09:30:17 +0000",
+      "mystic_grove": "2025-05-04 12:51:48 +0000",
+      "maple_woods": "2025-05-04 13:07:17 +0000",
       "orchard": "2025-05-04 10:02:34 +0000",
       "field": "2025-05-04 12:25:20 +0000",
       "overgrown_greens": "2025-05-04 12:23:34 +0000",
       "coniferous_forest": "2025-05-04 12:30:57 +0000",
       "redwood_forest": "2025-05-04 09:53:41 +0000",
       "aspen_glade": "2025-05-04 09:53:30 +0000",
+      "dune_beach": "2025-05-04 12:55:50 +0000",
+      "pasture": "2025-05-04 12:46:05 +0000",
       "lavender_field": "2025-05-04 09:51:33 +0000",
-      "prairie": "2025-05-04 09:43:38 +0000"
+      "fir_clearing": "2025-05-04 12:31:23 +0000",
+      "pumpkin_patch": "2025-05-04 12:31:45 +0000",
+      "prairie": "2025-05-04 09:43:38 +0000",
+      "ominous_woods": "2025-05-04 12:43:15 +0000"
     },
     "done": false
   },
@@ -1942,6 +1960,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-05-04 12:39:33 +0000",
+      "cooked_mutton": "2025-05-04 12:39:18 +0000",
       "cooked_beef": "2025-05-04 10:25:39 +0000",
       "baked_potato": "2025-05-04 12:16:57 +0000",
       "apple": "2025-05-04 09:37:17 +0000",
@@ -1963,6 +1983,7 @@
       "minecraft:wither_skeleton": "2025-05-04 11:12:43 +0000",
       "minecraft:cave_spider": "2025-05-04 11:13:47 +0000",
       "minecraft:stray": "2025-05-04 10:20:03 +0000",
+      "minecraft:silverfish": "2025-05-04 12:36:11 +0000",
       "minecraft:zombie": "2025-05-04 10:03:06 +0000"
     },
     "done": false
@@ -6312,9 +6333,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2025-05-04 13:20:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-05-04 12:33:56 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/umbran_planks": {
+    "criteria": {
+      "has_logs": "2025-05-04 12:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2025-05-04 13:20:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-05-04 12:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-05-04 12:39:14 +0000"
     },
     "done": true
   },
@@ -6330,9 +6381,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/freezing/packed_ice": {
+    "criteria": {
+      "has_result": "2025-05-04 13:07:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-04 12:26:22 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/gentlit_planks": {
+    "criteria": {
+      "TagKey[minecraft:item / buntsy:gentlit_logs]": "2025-05-04 12:46:45 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/fairy_collection_tray": {
+    "criteria": {
+      "has_gentlit_log": "2025-05-04 12:46:45 +0000"
     },
     "done": true
   },
@@ -6342,9 +6411,93 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/plague_doctor_mask": {
+    "criteria": {
+      "has_leather": "2025-05-04 12:33:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-05-04 12:33:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-05-04 13:20:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2025-05-04 13:02:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2025-05-04 12:22:48 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/bravot_planks": {
+    "criteria": {
+      "TagKey[minecraft:item / buntsy:bravot_logs]": "2025-05-04 12:46:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-05-04 13:21:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2025-05-04 12:41:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/maple_wood": {
+    "criteria": {
+      "has_log": "2025-05-04 12:31:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-05-04 13:02:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-05-04 12:56:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-05-04 13:02:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-05-04 12:33:56 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/infusion_pedestal": {
+    "criteria": {
+      "has_gentlit_log": "2025-05-04 12:46:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-05-04 13:20:21 +0000"
     },
     "done": true
   },
@@ -6360,9 +6513,39 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/tantan_cape": {
+    "criteria": {
+      "has_leather": "2025-05-04 12:33:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-05-04 13:02:32 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-05-04 12:33:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-04 12:26:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-05-04 13:21:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2025-05-04 13:20:47 +0000"
     },
     "done": true
   },
@@ -6372,9 +6555,27 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/conan_suit": {
+    "criteria": {
+      "has_wool": "2025-05-04 12:39:02 +0000"
+    },
+    "done": true
+  },
+  "material_elements:recipes/leather/leather_strip_from_leather": {
+    "criteria": {
+      "has_leather": "2025-05-04 12:33:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-05-04 12:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-05-04 12:33:56 +0000"
     },
     "done": true
   },
@@ -6384,9 +6585,45 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/fir_wood": {
+    "criteria": {
+      "has_log": "2025-05-04 12:31:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-04 12:26:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-05-04 12:33:56 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/cape_coloured": {
+    "criteria": {
+      "has_leather": "2025-05-04 12:33:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-05-04 12:39:02 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/dog_plushie_toy_item": {
+    "criteria": {
+      "has_white_wool": "2025-05-04 12:39:02 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/caramel_strawberries": {
+    "criteria": {
+      "has_strawberry": "2025-05-04 12:38:42 +0000"
     },
     "done": true
   },
@@ -6396,9 +6633,27 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/fir_planks": {
+    "criteria": {
+      "has_logs": "2025-05-04 12:31:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-04 12:26:22 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/strawberry_seeds": {
+    "criteria": {
+      "has_strawberry": "2025-05-04 12:38:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-05-04 13:02:17 +0000"
     },
     "done": true
   },
@@ -6408,9 +6663,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-05-04 12:33:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-04 12:26:22 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/leather_jacket": {
+    "criteria": {
+      "has_leather": "2025-05-04 12:33:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-05-04 13:02:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2025-05-04 12:43:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-05-04 13:02:32 +0000"
     },
     "done": true
   },
@@ -6420,9 +6705,27 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/magic_wood": {
+    "criteria": {
+      "has_log": "2025-05-04 12:52:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-04 12:26:22 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/umbran_wood": {
+    "criteria": {
+      "has_log": "2025-05-04 12:43:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/blindfold": {
+    "criteria": {
+      "has_item": "2025-05-04 12:33:56 +0000"
     },
     "done": true
   },
@@ -6444,9 +6747,33 @@
     },
     "done": true
   },
+  "buntsy:recipes/misc/fairy_infusion_bench": {
+    "criteria": {
+      "has_gentlit_log": "2025-05-04 12:46:45 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/breeding_bone": {
+    "criteria": {
+      "has_cooked_porkchop": "2025-05-04 12:36:45 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/gold_destructor_hammer": {
     "criteria": {
       "has_material": "2025-05-04 12:31:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-05-04 13:20:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2025-05-04 12:43:05 +0000"
     },
     "done": true
   },
@@ -6456,9 +6783,129 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-05-04 12:40:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-05-04 13:20:21 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_planks": {
+    "criteria": {
+      "has_logs": "2025-05-04 12:52:05 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/pink_dye_from_pink_daffodil": {
     "criteria": {
       "has_pink_daffodil": "2025-05-04 12:23:38 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/door_mat": {
+    "criteria": {
+      "has_wheat": "2025-05-04 13:02:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-05-04 13:07:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-05-04 12:39:02 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/tools/treat_bag": {
+    "criteria": {
+      "has_leather": "2025-05-04 12:33:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
+    "criteria": {
+      "has_sapphire_gem": "2025-05-04 12:44:24 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/beastars_uniform_male": {
+    "criteria": {
+      "has_wool": "2025-05-04 12:39:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-05-04 12:40:43 +0000"
+    },
+    "done": true
+  },
+  "material_elements:recipes/leather/leather_shears": {
+    "criteria": {
+      "has_leather": "2025-05-04 12:33:56 +0000"
+    },
+    "done": true
+  },
+  "material_elements:recipes/leather/leather_sheet_from_leather": {
+    "criteria": {
+      "has_leather": "2025-05-04 12:33:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2025-05-04 12:44:16 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/maple_planks": {
+    "criteria": {
+      "has_logs": "2025-05-04 12:31:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-05-04 12:39:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/blue_ice": {
+    "criteria": {
+      "has_ingredient": "2025-05-04 13:07:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-05-04 12:39:02 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-05-04 12:41:59 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-05-04 12:33:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-05-04 12:39:14 +0000"
     },
     "done": true
   },
@@ -6468,9 +6915,27 @@
     },
     "done": true
   },
+  "buntsy:recipes/misc/fairy_offering_bench": {
+    "criteria": {
+      "has_gentlit_log": "2025-05-04 12:46:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-05-04 12:26:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-05-04 13:20:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
+    "criteria": {
+      "has_item": "2025-05-04 12:41:53 +0000"
     },
     "done": true
   },
@@ -6480,15 +6945,39 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-04 12:36:24 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-05-04 13:08:33 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/gold_impact_hammer": {
     "criteria": {
       "has_material": "2025-05-04 12:31:02 +0000"
     },
     "done": true
   },
+  "doggytalents:recipes/food/sausage": {
+    "criteria": {
+      "has_cooked_porkchop": "2025-05-04 12:36:45 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
     "criteria": {
       "has_lavender": "2025-05-04 12:18:12 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/beastars_uniform_female": {
+    "criteria": {
+      "has_wool": "2025-05-04 12:39:02 +0000"
     },
     "done": true
   },
