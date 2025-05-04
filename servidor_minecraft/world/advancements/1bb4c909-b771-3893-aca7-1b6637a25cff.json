@@ -86,6 +86,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-04 10:53:31 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/cherry_pink_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-04 09:47:05 +0000"
@@ -218,6 +224,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed_by": "2025-05-04 10:42:46 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
     "criteria": {
       "has_gunpowder": "2025-05-04 10:20:39 +0000"
@@ -281,6 +293,12 @@
   "refurbished_furniture:recipes/misc/dark_electricity_generator": {
     "criteria": {
       "has_iron_ingot": "2025-05-04 09:55:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-04 10:41:36 +0000"
     },
     "done": true
   },
@@ -359,6 +377,12 @@
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-05-04 09:55:57 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-05-04 10:52:42 +0000"
     },
     "done": true
   },
@@ -524,6 +548,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_leggings": "2025-05-04 10:38:29 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/white_lamp": {
     "criteria": {
       "has_planks": "2025-05-04 09:54:35 +0000"
@@ -656,6 +686,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-05-04 10:52:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-05-04 09:55:49 +0000"
@@ -736,7 +772,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2025-05-04 10:28:50 +0000"
+      "minecraft:skeleton": "2025-05-04 10:28:50 +0000",
+      "minecraft:stray": "2025-05-04 10:52:42 +0000"
     },
     "done": false
   },
@@ -1178,6 +1215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-04 10:53:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-04 10:31:38 +0000"
@@ -1400,6 +1443,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-05-04 10:37:34 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/frying_pan": {
     "criteria": {
       "has_iron_ingot": "2025-05-04 09:55:49 +0000"
@@ -1466,9 +1515,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/block_pocket_manager": {
+    "criteria": {
+      "has_redstone_block": "2025-05-04 10:46:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-05-04 10:20:07 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "capsid": "2025-05-04 10:42:49 +0000"
     },
     "done": true
   },
@@ -1556,6 +1617,12 @@
     },
     "done": true
   },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-05-04 10:39:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-05-04 09:56:03 +0000"
@@ -1577,6 +1644,12 @@
   "fairyfactions:recipes/decorations/acacia_brown_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-04 09:47:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-04 10:41:19 +0000"
     },
     "done": true
   },
@@ -1625,6 +1698,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_kitchen_cabinetry": {
     "criteria": {
       "has_oak_planks": "2025-05-04 09:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-04 10:48:43 +0000"
     },
     "done": true
   },
@@ -1685,6 +1764,12 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-05-04 10:20:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-04 10:52:01 +0000"
     },
     "done": true
   },
@@ -1784,6 +1869,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-04 10:41:19 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/magenta_sofa": {
     "criteria": {
       "has_planks": "2025-05-04 09:54:35 +0000"
@@ -1835,6 +1926,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_storage_jar": {
     "criteria": {
       "has_oak_planks": "2025-05-04 09:54:35 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-05-04 10:52:42 +0000"
     },
     "done": true
   },
@@ -1892,6 +1989,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-04 10:41:19 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_birch_fence": {
     "criteria": {
       "has_stick": "2025-05-04 10:20:07 +0000"
@@ -1925,6 +2028,12 @@
   "securitycraft:recipes/misc/reinforced_oak_fence": {
     "criteria": {
       "has_stick": "2025-05-04 10:20:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-04 10:53:31 +0000"
     },
     "done": true
   },
@@ -2069,6 +2178,18 @@
   "refurbished_furniture:recipes/misc/constructing/recycle_bin": {
     "criteria": {
       "has_iron_ingot": "2025-05-04 09:55:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-05-04 10:41:18 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/super_treat": {
+    "criteria": {
+      "has_golden_apple": "2025-05-04 10:50:02 +0000"
     },
     "done": true
   },
@@ -2288,6 +2409,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-05-04 10:39:30 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/gray_trampoline": {
     "criteria": {
       "has_string": "2025-05-04 09:54:35 +0000"
@@ -2351,6 +2478,12 @@
   "fairyfactions:recipes/decorations/birch_magenta_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-04 09:47:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-04 10:41:36 +0000"
     },
     "done": true
   },
@@ -2465,6 +2598,12 @@
   "fairyfactions:recipes/decorations/birch_light_gray_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-04 09:47:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_leggings": "2025-05-04 10:38:29 +0000"
     },
     "done": true
   },
@@ -2750,6 +2889,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-04 10:53:31 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/brown_lamp": {
     "criteria": {
       "has_planks": "2025-05-04 09:54:35 +0000"
@@ -2759,6 +2904,12 @@
   "doggytalents:recipes/decorations/guard_suit": {
     "criteria": {
       "has_string": "2025-05-04 09:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-04 10:41:19 +0000"
     },
     "done": true
   },
@@ -2825,6 +2976,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-05-04 10:25:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-04 10:41:19 +0000"
     },
     "done": true
   },
@@ -2994,6 +3151,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-04 10:41:19 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/decorations/locator_orb_rei": {
     "criteria": {
       "has_string": "2025-05-04 09:54:35 +0000"
@@ -3096,6 +3259,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-05-04 10:46:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-05-04 09:49:41 +0000"
@@ -3105,6 +3274,12 @@
   "doggytalents:recipes/decorations/wool_collar_thicc": {
     "criteria": {
       "has_string": "2025-05-04 09:54:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/bestiary": {
+    "criteria": {
+      "has_item": "2025-05-04 10:39:35 +0000"
     },
     "done": true
   },
@@ -3246,6 +3421,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-04 10:53:31 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/redwood_boat": {
     "criteria": {
       "in_water": "2025-05-04 09:49:41 +0000"
@@ -3324,6 +3505,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-04 10:41:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/decorated_pot_simple": {
     "criteria": {
       "has_brick": "2025-05-04 09:54:36 +0000"
@@ -3345,6 +3532,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-05-04 09:56:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-04 10:52:01 +0000"
     },
     "done": true
   },
@@ -3492,6 +3685,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-04 10:41:19 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-05-04 10:20:11 +0000"
@@ -3555,6 +3754,12 @@
   "securitycraft:recipes/redstone/reinforced_warped_fence_gate": {
     "criteria": {
       "has_stick": "2025-05-04 10:20:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-04 10:53:31 +0000"
     },
     "done": true
   },
@@ -4062,6 +4267,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-04 10:41:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_shovel": "2025-05-04 09:54:23 +0000"
@@ -4241,6 +4452,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-05-04 10:38:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-05-04 10:20:39 +0000"
@@ -4250,6 +4467,12 @@
   "fairyfactions:recipes/decorations/mangrove_pink_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-04 09:47:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-04 10:48:43 +0000"
     },
     "done": true
   },
