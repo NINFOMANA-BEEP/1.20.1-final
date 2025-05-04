@@ -51,8 +51,11 @@
     "criteria": {
       "minecraft:deep_ocean": "2025-05-04 11:44:16 +0000",
       "minecraft:cherry_grove": "2025-05-04 13:15:40 +0000",
+      "minecraft:sunflower_plains": "2025-05-04 13:30:42 +0000",
       "minecraft:birch_forest": "2025-05-04 11:41:32 +0000",
+      "minecraft:savanna_plateau": "2025-05-04 13:22:23 +0000",
       "minecraft:beach": "2025-05-04 11:41:38 +0000",
+      "minecraft:stony_peaks": "2025-05-04 13:50:10 +0000",
       "minecraft:lukewarm_ocean": "2025-05-04 12:51:47 +0000",
       "minecraft:river": "2025-05-04 09:49:42 +0000",
       "minecraft:stony_shore": "2025-05-04 09:50:43 +0000",
@@ -531,6 +534,12 @@
     },
     "done": true
   },
+  "create:recipes/combat/crafting/appliances/netherite_diving_helmet_from_netherite": {
+    "criteria": {
+      "has_item": "2025-05-04 13:30:49 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/decorations/ceremonial_garb": {
     "criteria": {
       "has_lead": "2025-05-04 10:21:38 +0000"
@@ -588,6 +597,12 @@
   "doggytalents:recipes/tools/radio_collar": {
     "criteria": {
       "has_redstone": "2025-05-04 10:29:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_leggings": {
+    "criteria": {
+      "has_item": "2025-05-04 13:25:04 +0000"
     },
     "done": true
   },
@@ -1086,6 +1101,12 @@
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-04 11:49:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-04 13:37:39 +0000"
     },
     "done": true
   },
@@ -1802,6 +1823,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-05-04 13:40:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-05-04 09:56:22 +0000"
@@ -1819,6 +1846,12 @@
       "has_feather": "2025-05-04 10:19:31 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:calico": "2025-05-04 13:26:20 +0000"
+    },
+    "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/blue_trampoline": {
     "criteria": {
@@ -1934,6 +1967,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-04 13:37:39 +0000"
+    },
+    "done": true
+  },
   "miniutilities:recipes/misc/blessed_earth": {
     "criteria": {
       "has_item": "2025-05-04 11:14:54 +0000"
@@ -1943,6 +1982,12 @@
   "iceandfire:recipes/misc/nest": {
     "criteria": {
       "has_item": "2025-05-04 12:11:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-04 13:37:39 +0000"
     },
     "done": true
   },
@@ -2070,6 +2115,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-05-04 09:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-04 13:26:20 +0000"
     },
     "done": true
   },
@@ -2220,6 +2271,12 @@
   "material_elements:recipes/smelting/coke_from_coal_by_blasting": {
     "criteria": {
       "has_coal": "2025-05-04 10:22:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_boots": {
+    "criteria": {
+      "has_item": "2025-05-04 13:25:04 +0000"
     },
     "done": true
   },
@@ -2451,6 +2508,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-05-04 13:25:55 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_gray_helmet": {
     "criteria": {
       "has_item": "2025-05-04 12:53:54 +0000"
@@ -2472,6 +2535,12 @@
   "iceandfire:recipes/building_blocks/dragon_bone_block": {
     "criteria": {
       "has_dragonbone": "2025-05-04 12:11:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_black_to_dragonscale_black": {
+    "criteria": {
+      "has_dragonscales_black": "2025-05-04 13:25:04 +0000"
     },
     "done": true
   },
@@ -3537,6 +3606,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-05-04 13:30:49 +0000"
+    },
+    "done": true
+  },
   "mysticsbiomes:recipes/transportation/maple_boat": {
     "criteria": {
       "in_water": "2025-05-04 09:49:41 +0000"
@@ -3900,6 +3975,12 @@
   "yuushya:recipes/bismuth_crystal": {
     "criteria": {
       "has_cobblestone": "2025-05-04 11:14:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-04 13:37:39 +0000"
     },
     "done": true
   },
@@ -4401,6 +4482,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-05-04 13:25:55 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/pink_sofa": {
     "criteria": {
       "has_planks": "2025-05-04 09:54:35 +0000"
@@ -4410,6 +4497,12 @@
   "miniutilities:recipes/misc/redstone_glass": {
     "criteria": {
       "has_item": "2025-05-04 11:14:54 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/fairy_staff": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-04 13:37:39 +0000"
     },
     "done": true
   },
@@ -5250,6 +5343,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2025-05-04 13:27:36 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/empyreal_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-04 11:49:36 +0000"
@@ -5343,6 +5442,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_blue_stool": {
     "criteria": {
       "has_planks": "2025-05-04 09:54:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-04 13:25:04 +0000"
     },
     "done": true
   },
@@ -5478,6 +5583,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/copper_ingot": {
+    "criteria": {
+      "has_item": "2025-05-04 13:27:36 +0000"
+    },
+    "done": true
+  },
   "material_elements:recipes/refining/copper_nugget_from_copper_ingot": {
     "criteria": {
       "has_copper_ingot": "2025-05-04 12:01:04 +0000"
@@ -5517,6 +5628,12 @@
   "create:recipes/misc/crafting/kinetics/fluid_valve": {
     "criteria": {
       "has_item": "2025-05-04 12:01:04 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/food/pink_frosted_cake": {
+    "criteria": {
+      "has_egg": "2025-05-04 13:42:11 +0000"
     },
     "done": true
   },
@@ -5631,6 +5748,12 @@
   "refurbished_furniture:recipes/misc/wrench": {
     "criteria": {
       "has_string": "2025-05-04 09:54:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2025-05-04 13:27:36 +0000"
     },
     "done": true
   },
@@ -5841,6 +5964,12 @@
   "refurbished_furniture:recipes/misc/constructing/television": {
     "criteria": {
       "has_iron_ingot": "2025-05-04 09:55:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-05-04 13:25:55 +0000"
     },
     "done": true
   },
@@ -6606,6 +6735,18 @@
     },
     "done": true
   },
+  "enchantinginfuser:recipes/decorations/enchanting_infuser": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-04 13:37:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-04 13:37:39 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/acacia_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-05-04 10:20:07 +0000"
@@ -6890,6 +7031,7 @@
       "potato": "2025-05-04 11:30:01 +0000",
       "bread": "2025-05-04 10:29:59 +0000",
       "golden_apple": "2025-05-04 11:45:54 +0000",
+      "salmon": "2025-05-04 13:28:28 +0000",
       "melon_slice": "2025-05-04 10:18:44 +0000",
       "cooked_chicken": "2025-05-04 12:31:41 +0000",
       "carrot": "2025-05-04 10:19:29 +0000"
@@ -7259,6 +7401,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-05-04 09:55:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_helmet": {
+    "criteria": {
+      "has_item": "2025-05-04 13:25:04 +0000"
     },
     "done": true
   },
