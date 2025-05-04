@@ -61,6 +61,7 @@
       "minecraft:river": "2025-05-04 10:20:13 +0000",
       "minecraft:lukewarm_ocean": "2025-05-04 12:51:32 +0000",
       "minecraft:stony_shore": "2025-05-04 09:52:14 +0000",
+      "minecraft:dripstone_caves": "2025-05-04 14:37:28 +0000",
       "minecraft:forest": "2025-05-04 12:27:46 +0000",
       "minecraft:ocean": "2025-05-04 12:51:38 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-05-04 12:41:14 +0000",
@@ -6352,9 +6353,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-05-04 14:36:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-05-04 12:33:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-05-04 14:36:01 +0000"
     },
     "done": true
   },
@@ -6472,6 +6485,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-04 14:36:06 +0000"
+    },
+    "done": true
+  },
   "create:copper": {
     "criteria": {
       "0": "2025-05-04 13:24:12 +0000"
@@ -6481,6 +6500,12 @@
   "buntsy:recipes/misc/fairy_collection_tray": {
     "criteria": {
       "has_gentlit_log": "2025-05-04 12:46:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-05-04 14:36:06 +0000"
     },
     "done": true
   },
@@ -6544,6 +6569,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-04 14:36:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2025-05-04 12:22:48 +0000"
@@ -6598,9 +6629,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-05-04 14:36:06 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/maple_wood": {
     "criteria": {
       "has_log": "2025-05-04 12:31:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-05-04 14:36:06 +0000"
     },
     "done": true
   },
@@ -6613,6 +6656,12 @@
   "iceandfire:iceandfire/lectern": {
     "criteria": {
       "bestiary": "2025-05-04 13:42:01 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/stone_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-05-04 14:36:06 +0000"
     },
     "done": true
   },
@@ -6703,6 +6752,12 @@
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-04 12:26:22 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/stone_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-05-04 14:36:06 +0000"
     },
     "done": true
   },
@@ -6835,6 +6890,12 @@
   "material_elements:recipes/leather/leather_strip_from_leather": {
     "criteria": {
       "has_leather": "2025-05-04 12:33:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/stone_stepping_stones": {
+    "criteria": {
+      "has_stone": "2025-05-04 14:36:06 +0000"
     },
     "done": true
   },
@@ -7057,6 +7118,18 @@
   "doggytalents:recipes/decorations/snorkel": {
     "criteria": {
       "has_bamboo": "2025-05-04 13:56:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-05-04 14:36:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-05-04 14:36:01 +0000"
     },
     "done": true
   },
@@ -7336,6 +7409,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/stone_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-05-04 14:36:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-05-04 14:26:53 +0000"
@@ -7348,9 +7427,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-05-04 14:36:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_pillar": {
     "criteria": {
       "has_quartz_block": "2025-05-04 13:55:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-05-04 14:36:06 +0000"
     },
     "done": true
   },
@@ -7408,6 +7499,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-04 14:36:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-05-04 14:26:53 +0000"
@@ -7462,6 +7559,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-04 14:36:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2025-05-04 14:31:20 +0000"
@@ -7495,6 +7598,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-05-04 12:40:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-04 14:36:06 +0000"
     },
     "done": true
   },
@@ -7588,6 +7697,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-04 14:36:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-05-04 12:39:02 +0000"
@@ -7597,6 +7712,12 @@
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-04 14:26:53 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/stone_hammer": {
+    "criteria": {
+      "has_material": "2025-05-04 14:36:06 +0000"
     },
     "done": true
   },
@@ -7663,6 +7784,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-04 12:26:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-04 14:36:06 +0000"
     },
     "done": true
   },
@@ -7735,6 +7862,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-04 14:26:53 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/stone_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-05-04 14:36:06 +0000"
     },
     "done": true
   },
