@@ -966,3 +966,42 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [04May2025 11:18:56.632] [Server thread/INFO] [tombstone/]: The player Ich1goM1rukuu has successfully been saved
 [04May2025 11:19:51.233] [Server thread/WARN] [tombstone/]: The death event of the player darkblader69 was canceled by another mod
 [04May2025 11:19:51.235] [Server thread/INFO] [tombstone/]: The player darkblader69 has successfully been saved
+[04May2025 11:22:25.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Teleported darkblader69 to Ich1goM1rukuu]
+[04May2025 11:22:29.179] [Server thread/WARN] [tombstone/]: The death event of the player darkblader69 was canceled by another mod
+[04May2025 11:22:29.182] [Server thread/INFO] [tombstone/]: The player darkblader69 has successfully been saved
+[04May2025 11:22:38.431] [Server thread/WARN] [tombstone/]: The death event of the player Ich1goM1rukuu was canceled by another mod
+[04May2025 11:22:38.432] [Server thread/INFO] [tombstone/]: The player Ich1goM1rukuu has successfully been saved
+[04May2025 11:22:38.683] [Server thread/WARN] [tombstone/]: The death event of the player darkblader69 was canceled by another mod
+[04May2025 11:22:38.685] [Server thread/INFO] [tombstone/]: The player darkblader69 has successfully been saved
+[04May2025 11:22:44.433] [Server thread/WARN] [tombstone/]: The death event of the player darkblader69 was canceled by another mod
+[04May2025 11:22:44.436] [Server thread/INFO] [tombstone/]: The player darkblader69 has successfully been saved
+[04May2025 11:22:50.233] [Server thread/WARN] [tombstone/]: The death event of the player darkblader69 was canceled by another mod
+[04May2025 11:22:50.235] [Server thread/INFO] [tombstone/]: The player darkblader69 has successfully been saved
+[04May2025 11:23:34.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Penteconter]
+[04May2025 11:24:02.437] [Server thread/WARN] [tombstone/]: The death event of the player Ich1goM1rukuu was canceled by another mod
+[04May2025 11:24:02.439] [Server thread/INFO] [tombstone/]: The player Ich1goM1rukuu has successfully been saved
+[04May2025 11:26:04.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Teleported darkblader69 to Ich1goM1rukuu]
+[04May2025 11:26:33.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Penteconter]
+[04May2025 11:26:57.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Set own game mode to Spectator Mode]
+[04May2025 11:27:08.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Set own game mode to Survival Mode]
+[04May2025 11:27:11.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ich1goM1rukuu: Teleported Ich1goM1rukuu to darkblader69]
+[04May2025 11:27:16.500] [Server thread/WARN] [tombstone/]: The death event of the player darkblader69 was canceled by another mod
+[04May2025 11:27:16.502] [Server thread/INFO] [tombstone/]: The player darkblader69 has successfully been saved
+[04May2025 11:27:20.734] [Server thread/WARN] [tombstone/]: The death event of the player darkblader69 was canceled by another mod
+[04May2025 11:27:20.736] [Server thread/INFO] [tombstone/]: The player darkblader69 has successfully been saved
+[04May2025 11:27:21.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Amateur Archaeologist]
+[04May2025 11:27:22.982] [Server thread/WARN] [tombstone/]: The death event of the player darkblader69 was canceled by another mod
+[04May2025 11:27:22.984] [Server thread/INFO] [tombstone/]: The player darkblader69 has successfully been saved
+[04May2025 11:27:25.633] [Server thread/WARN] [tombstone/]: The death event of the player darkblader69 was canceled by another mod
+[04May2025 11:27:25.635] [Server thread/INFO] [tombstone/]: The player darkblader69 has successfully been saved
+[04May2025 11:27:28.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Barrel Booty]
+[04May2025 11:27:39.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Barrel Booty]
+[04May2025 11:28:52.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Magic Writing]
+[04May2025 11:30:36.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Teleported darkblader69 to Ich1goM1rukuu]
+[04May2025 11:30:55.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Teleported darkblader69 to Ich1goM1rukuu]
+[04May2025 11:31:04.279] [Server thread/WARN] [tombstone/]: The death event of the player darkblader69 was canceled by another mod
+[04May2025 11:31:04.291] [Server thread/INFO] [tombstone/]: The player darkblader69 has successfully been saved
+[04May2025 11:31:33.435] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: darkblader69 lost connection: Disconnected
+[04May2025 11:31:33.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 left the game
+[04May2025 11:37:43.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Tie me to the Mast]
+[04May2025 11:38:58.788] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4418ms or 88 ticks behind

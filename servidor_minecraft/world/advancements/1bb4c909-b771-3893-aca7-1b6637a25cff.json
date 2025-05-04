@@ -770,6 +770,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-05-04 11:17:25 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/acacia_orange_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-04 09:47:05 +0000"
@@ -854,6 +860,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-05-04 11:24:20 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/netherite_hammer": {
     "criteria": {
       "has_material": "2025-05-04 09:56:22 +0000"
@@ -905,7 +917,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-04 10:28:50 +0000",
-      "minecraft:stray": "2025-05-04 10:52:42 +0000"
+      "minecraft:spider": "2025-05-04 11:22:31 +0000",
+      "minecraft:stray": "2025-05-04 10:52:42 +0000",
+      "minecraft:zombie": "2025-05-04 11:21:28 +0000"
     },
     "done": false
   },
@@ -1122,6 +1136,12 @@
   "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_cobblestone": {
     "criteria": {
       "has_cobblestone": "2025-05-04 11:14:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-05-04 11:24:20 +0000"
     },
     "done": true
   },
@@ -1565,6 +1585,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2025-05-04 11:27:39 +0000",
       "opened_chest": "2025-05-04 09:54:21 +0000"
     },
     "done": false
@@ -1746,6 +1767,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-05-04 09:55:49 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-05-04 11:26:33 +0000"
     },
     "done": true
   },
@@ -1950,6 +1977,12 @@
   "miniutilities:recipes/misc/ender_tile": {
     "criteria": {
       "has_item": "2025-05-04 11:14:54 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-05-04 11:27:39 +0000"
     },
     "done": true
   },
@@ -2397,6 +2430,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/jacaranda_wood": {
+    "criteria": {
+      "has_log": "2025-05-04 11:31:09 +0000"
+    },
+    "done": true
+  },
   "miniutilities:recipes/misc/angel_block": {
     "criteria": {
       "has_item": "2025-05-04 11:14:54 +0000"
@@ -2478,6 +2517,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-05-04 10:31:41 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/caramel_strawberries": {
+    "criteria": {
+      "has_strawberry": "2025-05-04 11:34:29 +0000"
     },
     "done": true
   },
@@ -2604,6 +2649,12 @@
   "miniutilities:recipes/misc/angel_ring": {
     "criteria": {
       "has_item": "2025-05-04 11:14:54 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/strawberry_seeds": {
+    "criteria": {
+      "has_strawberry": "2025-05-04 11:34:29 +0000"
     },
     "done": true
   },
@@ -3039,6 +3090,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-04 11:24:20 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/dark_oak_purple_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-04 09:47:05 +0000"
@@ -3174,6 +3231,12 @@
   "refurbished_furniture:recipes/misc/television_remote": {
     "criteria": {
       "has_iron_nugget": "2025-05-04 10:26:52 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/energizer_stick": {
+    "criteria": {
+      "has_sugar": "2025-05-04 11:28:00 +0000"
     },
     "done": true
   },
@@ -3399,6 +3462,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-04 11:24:20 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2025-05-04 09:56:39 +0000"
@@ -3522,6 +3591,12 @@
   "refurbished_furniture:recipes/misc/constructing/brown_lamp": {
     "criteria": {
       "has_planks": "2025-05-04 09:54:35 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/uncooked_rice_bowl": {
+    "criteria": {
+      "has_dtn_rice_grains": "2025-05-04 11:31:09 +0000"
     },
     "done": true
   },
@@ -3775,6 +3850,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/jacaranda_planks": {
+    "criteria": {
+      "has_logs": "2025-05-04 11:31:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-05-04 09:55:49 +0000"
@@ -3808,6 +3889,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_basin": {
     "criteria": {
       "has_oak_planks": "2025-05-04 09:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-04 11:24:20 +0000"
     },
     "done": true
   },
@@ -3874,6 +3961,12 @@
   "refurbished_furniture:recipes/misc/constructing/dark_oak_bath": {
     "criteria": {
       "has_iron_ingot": "2025-05-04 09:55:49 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-04 11:24:20 +0000"
     },
     "done": true
   },
@@ -3946,6 +4039,12 @@
   "fairyfactions:recipes/decorations/cherry_gray_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-04 09:47:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/ambrosia": {
+    "criteria": {
+      "has_item": "2025-05-04 11:31:56 +0000"
     },
     "done": true
   },
@@ -4477,6 +4576,12 @@
     },
     "done": true
   },
+  "buntsy:recipes/misc/sugar_bowl": {
+    "criteria": {
+      "has_sugar": "2025-05-04 11:28:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-05-04 10:41:19 +0000"
@@ -4837,6 +4942,12 @@
     },
     "done": true
   },
+  "doggytalents:recipes/food/training_treat": {
+    "criteria": {
+      "has_dtn_rice_grains": "2025-05-04 11:31:09 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/dark_oak_gray_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-04 09:47:05 +0000"
@@ -5017,6 +5128,12 @@
     },
     "done": true
   },
+  "buntsy:recipes/misc/syrupy_mixture_bowl": {
+    "criteria": {
+      "has_sugar": "2025-05-04 11:28:00 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/oak_pink_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-04 09:47:05 +0000"
@@ -5170,6 +5287,12 @@
   "fairyfactions:recipes/decorations/birch_white_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-04 09:47:05 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-05-04 11:27:21 +0000"
     },
     "done": true
   },
@@ -5352,6 +5475,7 @@
       "cooked_beef": "2025-05-04 10:20:09 +0000",
       "baked_potato": "2025-05-04 10:29:24 +0000",
       "apple": "2025-05-04 10:29:27 +0000",
+      "potato": "2025-05-04 11:30:01 +0000",
       "bread": "2025-05-04 10:29:59 +0000",
       "melon_slice": "2025-05-04 10:18:44 +0000",
       "carrot": "2025-05-04 10:19:29 +0000"
@@ -5427,6 +5551,12 @@
   "fairyfactions:recipes/decorations/mangrove_pink_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-04 09:47:05 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/hootnip_seeds": {
+    "criteria": {
+      "has_hootnip": "2025-05-04 11:31:41 +0000"
     },
     "done": true
   },
