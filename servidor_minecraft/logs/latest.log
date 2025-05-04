@@ -1020,3 +1020,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [04May2025 11:52:15.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Knowledge raises the soul]
 [04May2025 11:53:13.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Ashes 'n Bones]
 [04May2025 11:53:14.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Clash of the Titans]
+[04May2025 12:12:26.034] [Server thread/WARN] [tombstone/]: The death event of the player Ich1goM1rukuu was canceled by another mod
+[04May2025 12:12:26.036] [Server thread/INFO] [tombstone/]: The player Ich1goM1rukuu has successfully been saved
+[04May2025 12:12:39.029] [Server thread/WARN] [tombstone/]: The death event of the player Ich1goM1rukuu was canceled by another mod
+[04May2025 12:12:39.031] [Server thread/INFO] [tombstone/]: The player Ich1goM1rukuu has successfully been saved
+[04May2025 12:13:16.194] [Server thread/WARN] [tombstone/]: The death event of the player Ich1goM1rukuu was canceled by another mod
+[04May2025 12:13:16.195] [Server thread/INFO] [tombstone/]: The player Ich1goM1rukuu has successfully been saved
+[04May2025 12:13:22.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu suffocated in a wall
+[04May2025 12:13:22.686] [Server thread/INFO] [tombstone/]: The player Ich1goM1rukuu has successfully been saved
+[04May2025 12:13:31.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has reached the goal [Here They Come]
+[04May2025 12:16:27.492] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: darkblader69[/127.236.37.64:55003] logged in with entity id 40363 at (661.4885759344921, 71.0, -913.3579597107015)
+[04May2025 12:16:27.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 joined the game
+[04May2025 12:16:27.551] [Server thread/INFO] [Jade/]: Syncing config to darkblader69 (c5ed7fb1-b56d-3780-a140-29be33768a49)
+[04May2025 12:16:51.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Mother of Dragons]
+[04May2025 12:20:54.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 was turned into gorgonzola by darkblader69
+[04May2025 12:20:54.381] [Server thread/INFO] [tombstone/]: The player darkblader69 has successfully been saved
+[04May2025 12:21:05.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Teleported darkblader69 to Ich1goM1rukuu]

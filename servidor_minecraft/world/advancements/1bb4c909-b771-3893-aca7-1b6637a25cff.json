@@ -54,6 +54,7 @@
       "minecraft:beach": "2025-05-04 11:41:38 +0000",
       "minecraft:river": "2025-05-04 09:49:42 +0000",
       "minecraft:stony_shore": "2025-05-04 09:50:43 +0000",
+      "minecraft:cold_ocean": "2025-05-04 12:12:29 +0000",
       "minecraft:forest": "2025-05-04 11:40:44 +0000",
       "minecraft:ocean": "2025-05-04 11:37:08 +0000",
       "minecraft:flower_forest": "2025-05-04 09:36:25 +0000",
@@ -247,6 +248,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/rose_quartz_lamp": {
+    "criteria": {
+      "has_item": "2025-05-04 12:04:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/steam_whistle": {
     "criteria": {
       "has_item": "2025-05-04 12:01:04 +0000"
@@ -262,6 +269,12 @@
   "miniutilities:recipes/misc/bat_angel_ring": {
     "criteria": {
       "has_item": "2025-05-04 11:14:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_boots": {
+    "criteria": {
+      "has_item": "2025-05-04 12:11:59 +0000"
     },
     "done": true
   },
@@ -349,6 +362,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/package_filter": {
+    "criteria": {
+      "has_item": "2025-05-04 12:04:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
+    "criteria": {
+      "has_item": "2025-05-04 12:11:59 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/mangrove_white_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-04 09:47:05 +0000"
@@ -424,6 +449,12 @@
   "refurbished_furniture:recipes/misc/constructing/white_grill": {
     "criteria": {
       "has_iron_ingot": "2025-05-04 09:55:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-04 12:11:59 +0000"
     },
     "done": true
   },
@@ -526,6 +557,12 @@
   "miniutilities:recipes/misc/green_lapis_caelestis": {
     "criteria": {
       "has_item": "2025-05-04 11:14:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/chain_from_zinc": {
+    "criteria": {
+      "has_item": "2025-05-04 12:04:09 +0000"
     },
     "done": true
   },
@@ -676,6 +713,12 @@
   "create:recipes/misc/crafting/logistics/pulse_extender": {
     "criteria": {
       "has_item": "2025-05-04 10:29:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-04 12:16:51 +0000"
     },
     "done": true
   },
@@ -1162,6 +1205,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2025-05-04 12:11:59 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2025-05-04 09:55:49 +0000"
@@ -1357,6 +1406,12 @@
   "biomesoplenty:recipes/transportation/dead_boat": {
     "criteria": {
       "in_water": "2025-05-04 09:49:41 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-05-04 12:13:31 +0000"
     },
     "done": true
   },
@@ -1582,6 +1637,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_silver_leggings": {
+    "criteria": {
+      "has_item": "2025-05-04 12:11:59 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/red_trampoline": {
     "criteria": {
       "has_string": "2025-05-04 09:54:35 +0000"
@@ -1696,6 +1757,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2025-05-04 12:12:05 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/warped_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-05-04 09:55:49 +0000"
@@ -1765,6 +1832,12 @@
   "miniutilities:recipes/misc/blessed_earth": {
     "criteria": {
       "has_item": "2025-05-04 11:14:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2025-05-04 12:11:59 +0000"
     },
     "done": true
   },
@@ -2000,6 +2073,12 @@
   "miniutilities:recipes/misc/blursed_earth": {
     "criteria": {
       "has_item": "2025-05-04 11:14:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2025-05-04 12:11:59 +0000"
     },
     "done": true
   },
@@ -2255,6 +2334,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2025-05-04 12:11:59 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/heating/baked_potato": {
     "criteria": {
       "has_ingredient": "2025-05-04 09:54:36 +0000"
@@ -2429,6 +2514,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/copycat_panel_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2025-05-04 12:04:09 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_desk": {
     "criteria": {
       "has_oak_planks": "2025-05-04 09:54:35 +0000"
@@ -2468,6 +2559,12 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-05-04 10:20:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_leggings": {
+    "criteria": {
+      "has_item": "2025-05-04 12:16:51 +0000"
     },
     "done": true
   },
@@ -2630,6 +2727,12 @@
   "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
     "criteria": {
       "has_item": "2025-05-04 12:01:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2025-05-04 12:11:59 +0000"
     },
     "done": true
   },
@@ -2888,6 +2991,12 @@
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-05-04 10:20:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-05-04 12:16:51 +0000"
     },
     "done": true
   },
@@ -3839,6 +3948,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2025-05-04 12:11:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-05-04 09:54:35 +0000"
@@ -3980,6 +4095,12 @@
   "refurbished_furniture:recipes/misc/constructing/magenta_cooler": {
     "criteria": {
       "has_planks": "2025-05-04 09:54:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_helmet": {
+    "criteria": {
+      "has_item": "2025-05-04 12:11:59 +0000"
     },
     "done": true
   },
@@ -4335,7 +4456,9 @@
     "criteria": {
       "shrubland": "2025-05-04 11:57:09 +0000",
       "rocky_shrubland": "2025-05-04 11:59:39 +0000",
+      "highland": "2025-05-04 12:05:51 +0000",
       "jacaranda_glade": "2025-05-04 09:49:47 +0000",
+      "maple_woods": "2025-05-04 12:05:41 +0000",
       "orchard": "2025-05-04 09:54:46 +0000",
       "redwood_forest": "2025-05-04 09:53:38 +0000",
       "dune_beach": "2025-05-04 11:51:13 +0000",
@@ -4606,6 +4729,12 @@
   "fairyfactions:recipes/decorations/oak_orange_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-04 09:47:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2025-05-04 12:11:59 +0000"
     },
     "done": true
   },
@@ -4915,6 +5044,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2025-05-04 12:11:59 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_lightswitch": {
     "criteria": {
       "has_iron_ingot": "2025-05-04 09:55:49 +0000"
@@ -4969,6 +5104,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/wheat_seeds_from_grass": {
+    "criteria": {
+      "has_grass": "2025-05-04 12:15:23 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_lattice_fence": {
     "criteria": {
       "has_stick": "2025-05-04 10:20:07 +0000"
@@ -5002,6 +5143,12 @@
   "minecraft:recipes/decorations/lodestone": {
     "criteria": {
       "has_netherite_ingot": "2025-05-04 09:56:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice_spikes": {
+    "criteria": {
+      "has_item": "2025-05-04 12:07:10 +0000"
     },
     "done": true
   },
@@ -5083,6 +5230,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/zinc_block_from_compacting": {
+    "criteria": {
+      "has_item": "2025-05-04 12:04:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_helmet": {
+    "criteria": {
+      "has_item": "2025-05-04 12:16:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-05-04 09:56:03 +0000"
@@ -5110,6 +5269,12 @@
   "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
     "criteria": {
       "has_redstone": "2025-05-04 10:29:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
+    "criteria": {
+      "has_sapphire_gem": "2025-05-04 12:06:17 +0000"
     },
     "done": true
   },
@@ -5317,6 +5482,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2025-05-04 12:06:20 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
     "criteria": {
       "has_cobweb": "2025-05-04 12:01:04 +0000"
@@ -5374,6 +5545,12 @@
   "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
     "criteria": {
       "has_wool": "2025-05-04 11:40:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
+    "criteria": {
+      "has_dragonscales_red": "2025-05-04 12:16:51 +0000"
     },
     "done": true
   },
@@ -5455,6 +5632,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/copycat_step_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2025-05-04 12:04:09 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_trident": {
     "criteria": {
       "has_item": "2025-05-04 11:42:52 +0000"
@@ -5494,6 +5677,12 @@
   "miniutilities:recipes/misc/red_lapis_caelestis": {
     "criteria": {
       "has_item": "2025-05-04 11:14:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_boots": {
+    "criteria": {
+      "has_item": "2025-05-04 12:16:51 +0000"
     },
     "done": true
   },
@@ -5560,6 +5749,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-05-04 11:40:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy_from_zinc": {
+    "criteria": {
+      "has_item": "2025-05-04 12:04:09 +0000"
     },
     "done": true
   },
@@ -5965,6 +6160,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_silver_to_dragonscale_silver": {
+    "criteria": {
+      "has_dragonscales_silver": "2025-05-04 12:11:59 +0000"
+    },
+    "done": true
+  },
   "buntsy:recipes/misc/syrupy_mixture_bowl": {
     "criteria": {
       "has_sugar": "2025-05-04 11:28:00 +0000"
@@ -6070,6 +6271,12 @@
   "refurbished_furniture:recipes/misc/constructing/gray_stool": {
     "criteria": {
       "has_planks": "2025-05-04 09:54:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2025-05-04 12:11:59 +0000"
     },
     "done": true
   },
@@ -6404,6 +6611,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/zinc_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2025-05-04 12:04:09 +0000"
+    },
+    "done": true
+  },
   "miniutilities:recipes/misc/infused_boots": {
     "criteria": {
       "has_item": "2025-05-04 11:14:54 +0000"
@@ -6470,6 +6683,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2025-05-04 12:11:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/rose_quartz": {
     "criteria": {
       "has_item": "2025-05-04 10:29:00 +0000"
@@ -6509,6 +6728,12 @@
   "refurbished_furniture:recipes/misc/constructing/dark_oak_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-05-04 09:55:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2025-05-04 12:12:05 +0000"
     },
     "done": true
   },
