@@ -102,11 +102,6 @@
 	#arrows as vanilla's arrow. Disable this, if you prefer Dogs to utilize third-party
 	#Arrows as it is. Regardless, the arrows fired from Dog will do no harm to allies.
 	doggy_tools_projectile_pass_allies = true
-	#Allow Dogs who have Doggy Tools maxed out to help their owners bridging.
-	doggy_tools_bridging = true
-	#Specify how many Maxed out Doggy Tools dogs can help a player bridge at once.
-	#Range: 0 ~ 16
-	doggy_tools_bridging_limit = 1
 	#Allow Players to Pet their Dogs.
 	dog_petting = true
 	#By default, one of the nearby Dogs will get jealous if you
@@ -147,8 +142,9 @@
 	carry_me_whistle = true
 	#Prevent Dog from going over the MaxBuildHeight of the world.
 	dog_max_build_y_cap = true
-	#Upon training a Vanilla Pale Wolf, if this option is enabled, a random
-	#Vanilla Dog Variant will be assigned to the newly trained DTN Dog instead of
-	#the Pale one only.
-	random_var_on_pale = false
+	#For Minecraft version below 1.20.5
+	#When this option is enabled, upon training a vanilla wolf
+	#to DTN Wolf, DTN will asign a random Classical Variant
+	#(DTN and Armored Paw) instead of sticking with default.
+	random_var_on_train = false
 
