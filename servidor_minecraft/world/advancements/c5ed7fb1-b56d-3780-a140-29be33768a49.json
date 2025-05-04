@@ -7055,6 +7055,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-05-04 14:48:22 +0000"
+    },
+    "done": true
+  },
   "buntsy:recipes/misc/caramel_strawberries": {
     "criteria": {
       "has_strawberry": "2025-05-04 12:38:42 +0000"

@@ -1249,3 +1249,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [04May2025 14:41:04.633] [Server thread/INFO] [tombstone/]: The player Ich1goM1rukuu has successfully been saved
 [04May2025 14:41:08.634] [Server thread/WARN] [tombstone/]: The death event of the player Ich1goM1rukuu was canceled by another mod
 [04May2025 14:41:08.636] [Server thread/INFO] [tombstone/]: The player Ich1goM1rukuu has successfully been saved
+[04May2025 14:47:01.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <darkblader69> me peto el dc
+[04May2025 14:48:22.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Mother of Dragons]
+[04May2025 14:48:48.731] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: darkblader69 lost connection: Disconnected
+[04May2025 14:48:48.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 left the game
+[04May2025 14:54:42.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Suit Up]
+[04May2025 14:55:16.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Dragon Commander]
