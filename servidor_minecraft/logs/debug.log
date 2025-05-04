@@ -13015,3 +13015,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [04May2025 10:16:25.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Teleported darkblader69 to Ich1goM1rukuu]
 [04May2025 10:16:35.311] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=724, y=32, z=-940}) doesn't have enough leaves around top most log
 [04May2025 10:16:37.111] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=724, y=31, z=-940}) doesn't have enough leaves around top most log
+[04May2025 10:21:14.960] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 10:21:15.002] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 10:21:23.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Ashes 'n Bones]
+[04May2025 10:23:35.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Teleported Ich1goM1rukuu to darkblader69]
+[04May2025 10:23:39.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Disme A Dozen]
+[04May2025 10:24:57.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Disme A Dozen]
+[04May2025 10:26:14.957] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 10:26:14.998] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 10:26:49.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Isn't It Iron Pick]
+[04May2025 10:28:50.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Monster Hunter]
+[04May2025 10:29:18.801] [Server thread/WARN] [tombstone/]: The death event of the player Ich1goM1rukuu was canceled by another mod
+[04May2025 10:29:18.803] [Server thread/INFO] [tombstone/]: The player Ich1goM1rukuu has successfully been saved
+[04May2025 10:29:21.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Teleported Ich1goM1rukuu to darkblader69]
+[04May2025 10:30:36.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Teleported darkblader69 to Ich1goM1rukuu]

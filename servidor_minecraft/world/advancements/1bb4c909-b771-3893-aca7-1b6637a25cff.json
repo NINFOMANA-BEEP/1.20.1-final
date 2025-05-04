@@ -56,6 +56,12 @@
     },
     "done": false
   },
+  "refurbished_furniture:recipes/misc/slicing/brown_dye_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-05-04 10:21:32 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/sentry": {
     "criteria": {
       "has_iron": "2025-05-04 09:55:49 +0000"
@@ -71,6 +77,12 @@
   "fairyfactions:recipes/decorations/dark_oak_brown_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-04 09:47:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-05-04 10:20:07 +0000"
     },
     "done": true
   },
@@ -92,9 +104,57 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/crimson_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-05-04 10:20:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_birch_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-04 10:20:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_crimson_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-04 10:20:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-05-04 10:20:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/motion_activated_light": {
+    "criteria": {
+      "has_stick": "2025-05-04 10:20:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_jungle_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-04 10:20:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-04 10:20:07 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/green_stool": {
     "criteria": {
       "has_planks": "2025-05-04 09:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-05-04 10:20:35 +0000"
     },
     "done": true
   },
@@ -143,6 +203,12 @@
   "fairyfactions:recipes/decorations/birch_yellow_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-04 09:47:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
+    "criteria": {
+      "has_gunpowder": "2025-05-04 10:20:39 +0000"
     },
     "done": true
   },
@@ -236,6 +302,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-04 10:20:07 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/pink_grill": {
     "criteria": {
       "has_iron_ingot": "2025-05-04 09:55:49 +0000"
@@ -245,6 +317,12 @@
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-05-04 09:56:03 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/ceremonial_garb": {
+    "criteria": {
+      "has_lead": "2025-05-04 10:21:38 +0000"
     },
     "done": true
   },
@@ -296,6 +374,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
+    "criteria": {
+      "has_item": "2025-05-04 10:25:01 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/decorations/bowtie": {
     "criteria": {
       "has_string": "2025-05-04 09:54:35 +0000"
@@ -344,6 +428,12 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/sunglasses": {
+    "criteria": {
+      "has_stick": "2025-05-04 10:20:07 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_toaster": {
     "criteria": {
       "has_iron_ingot": "2025-05-04 09:55:49 +0000"
@@ -368,9 +458,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-04 10:25:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-05-04 09:55:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-05-04 10:20:07 +0000"
     },
     "done": true
   },
@@ -422,6 +524,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_spruce_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-04 10:20:07 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/yellow_sofa": {
     "criteria": {
       "has_planks": "2025-05-04 09:54:35 +0000"
@@ -431,6 +539,18 @@
   "fairyfactions:recipes/decorations/jungle_yellow_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-04 09:47:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
+    "criteria": {
+      "has_item": "2025-05-04 10:25:01 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/giant_stick": {
+    "criteria": {
+      "has_stick": "2025-05-04 10:20:07 +0000"
     },
     "done": true
   },
@@ -497,6 +617,12 @@
   "doggytalents:recipes/decorations/propeller_hat": {
     "criteria": {
       "has_iron_ingot": "2025-05-04 09:55:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-04 10:25:02 +0000"
     },
     "done": true
   },
@@ -722,6 +848,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-05-04 10:20:07 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/whitelist_module": {
     "criteria": {
       "has_iron": "2025-05-04 09:55:49 +0000"
@@ -755,6 +887,12 @@
   "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
     "criteria": {
       "has_diamond_backpack": "2025-05-04 09:56:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_acacia_fence": {
+    "criteria": {
+      "has_stick": "2025-05-04 10:20:07 +0000"
     },
     "done": true
   },
@@ -860,6 +998,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2025-05-04 10:19:31 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/blue_trampoline": {
     "criteria": {
       "has_string": "2025-05-04 09:54:35 +0000"
@@ -905,6 +1049,12 @@
   "refurbished_furniture:recipes/misc/constructing/lime_stool": {
     "criteria": {
       "has_planks": "2025-05-04 09:54:35 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_bamboo_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-04 10:20:07 +0000"
     },
     "done": true
   },
@@ -986,6 +1136,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-05-04 10:19:30 +0000"
+    },
+    "done": true
+  },
   "mysticsbiomes:recipes/transportation/strawberry_boat": {
     "criteria": {
       "in_water": "2025-05-04 09:49:41 +0000"
@@ -1040,6 +1196,18 @@
     },
     "done": true
   },
+  "doggytalents:recipes/tools/feathered_mantle": {
+    "criteria": {
+      "has_feather": "2025-05-04 10:19:31 +0000"
+    },
+    "done": true
+  },
+  "material_elements:recipes/smelting/coke_from_coal_by_blasting": {
+    "criteria": {
+      "has_coal": "2025-05-04 10:22:09 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/frying_pan": {
     "criteria": {
       "has_iron_ingot": "2025-05-04 09:55:49 +0000"
@@ -1070,9 +1238,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2025-05-04 10:20:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-05-04 10:21:43 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-05-04 10:20:07 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2025-05-04 09:55:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-05-04 10:20:07 +0000"
     },
     "done": true
   },
@@ -1106,15 +1298,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-04 10:25:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-05-04 09:55:49 +0000"
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/acacia_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-05-04 10:20:07 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/heating/baked_potato": {
     "criteria": {
       "has_ingredient": "2025-05-04 09:54:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/sonic_security_system": {
+    "criteria": {
+      "has_stick": "2025-05-04 10:20:07 +0000"
     },
     "done": true
   },
@@ -1157,6 +1367,12 @@
   "doggytalents:recipes/misc/gender_bone": {
     "criteria": {
       "has_string": "2025-05-04 09:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-04 10:25:01 +0000"
     },
     "done": true
   },
@@ -1226,6 +1442,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2025-05-04 10:25:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2025-05-04 09:54:36 +0000"
@@ -1244,9 +1466,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-05-04 10:20:07 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-05-04 09:55:49 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dark_oak_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-04 10:20:07 +0000"
     },
     "done": true
   },
@@ -1334,6 +1568,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-05-04 10:20:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-05-04 09:58:30 +0000"
@@ -1406,6 +1646,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/reinforced_birch_fence": {
+    "criteria": {
+      "has_stick": "2025-05-04 10:20:07 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cyan_stool": {
     "criteria": {
       "has_planks": "2025-05-04 09:54:35 +0000"
@@ -1415,6 +1661,24 @@
   "securitycraft:recipes/misc/speed_module": {
     "criteria": {
       "has_iron": "2025-05-04 09:55:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-05-04 10:20:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_dark_oak_fence": {
+    "criteria": {
+      "has_stick": "2025-05-04 10:20:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_oak_fence": {
+    "criteria": {
+      "has_stick": "2025-05-04 10:20:07 +0000"
     },
     "done": true
   },
@@ -1445,6 +1709,12 @@
   "refurbished_furniture:recipes/misc/constructing/green_sofa": {
     "criteria": {
       "has_planks": "2025-05-04 09:54:35 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_oak_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-04 10:20:07 +0000"
     },
     "done": true
   },
@@ -1490,9 +1760,21 @@
     },
     "done": true
   },
+  "fairyfactions:recipes/misc/fairy_wand": {
+    "criteria": {
+      "has_stick": "2025-05-04 10:20:07 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/redstone_module": {
     "criteria": {
       "has_iron": "2025-05-04 09:55:49 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_bamboo_fence": {
+    "criteria": {
+      "has_stick": "2025-05-04 10:20:07 +0000"
     },
     "done": true
   },
@@ -1502,9 +1784,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-04 10:20:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_crimson_fence": {
+    "criteria": {
+      "has_stick": "2025-05-04 10:20:07 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/recycle_bin": {
     "criteria": {
       "has_iron_ingot": "2025-05-04 09:55:49 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/bug_net": {
+    "criteria": {
+      "has_bamboo": "2025-05-04 10:21:35 +0000"
     },
     "done": true
   },
@@ -1556,6 +1856,12 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/snorkel": {
+    "criteria": {
+      "has_bamboo": "2025-05-04 10:21:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-05-04 09:49:41 +0000"
@@ -1574,6 +1880,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/jungle_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-04 10:20:07 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_ceiling_light": {
     "criteria": {
       "has_iron_ingot": "2025-05-04 09:55:49 +0000"
@@ -1583,6 +1895,12 @@
   "doggytalents:recipes/decorations/locator_orb_dyable": {
     "criteria": {
       "has_string": "2025-05-04 09:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2025-05-04 10:21:43 +0000"
     },
     "done": true
   },
@@ -1679,6 +1997,12 @@
   "refurbished_furniture:recipes/misc/constructing/mangrove_bath": {
     "criteria": {
       "has_iron_ingot": "2025-05-04 09:55:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-04 10:25:01 +0000"
     },
     "done": true
   },
@@ -1856,9 +2180,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-04 10:25:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-05-04 09:55:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-04 10:25:01 +0000"
     },
     "done": true
   },
@@ -1886,6 +2222,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2025-05-04 10:21:34 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/dark_oak_yellow_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-04 09:47:05 +0000"
@@ -1898,9 +2240,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
+    "criteria": {
+      "has_item": "2025-05-04 10:25:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2025-05-04 09:55:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-05-04 10:20:08 +0000"
     },
     "done": true
   },
@@ -1919,6 +2273,12 @@
   "fairyfactions:recipes/decorations/acacia_purple_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-04 09:47:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-04 10:25:02 +0000"
     },
     "done": true
   },
@@ -1964,9 +2324,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/spruce_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-05-04 10:20:07 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_blue_cooler": {
     "criteria": {
       "has_planks": "2025-05-04 09:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-05-04 10:19:31 +0000"
     },
     "done": true
   },
@@ -2030,6 +2402,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/crimson_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-04 10:20:07 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/acacia_black_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-04 09:47:05 +0000"
@@ -2060,6 +2438,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-05-04 10:25:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_hoe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-05-04 09:56:22 +0000"
@@ -2078,9 +2462,21 @@
     },
     "done": true
   },
+  "doggytalents:recipes/tools/throw_bone": {
+    "criteria": {
+      "has_bone": "2025-05-04 10:21:34 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/cherry_yellow_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-04 09:47:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_jungle_fence": {
+    "criteria": {
+      "has_stick": "2025-05-04 10:20:07 +0000"
     },
     "done": true
   },
@@ -2166,6 +2562,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/reinforced_warped_fence": {
+    "criteria": {
+      "has_stick": "2025-05-04 10:20:07 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_basin": {
     "criteria": {
       "has_oak_planks": "2025-05-04 09:54:35 +0000"
@@ -2187,6 +2589,12 @@
   "doggytalents:recipes/decorations/locator_orb_rei": {
     "criteria": {
       "has_string": "2025-05-04 09:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-05-04 10:21:34 +0000"
     },
     "done": true
   },
@@ -2250,6 +2658,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-05-04 10:21:43 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/mangrove_magenta_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-04 09:47:05 +0000"
@@ -2277,6 +2691,12 @@
   "doggytalents:recipes/tools/canine_tracker": {
     "criteria": {
       "has_gold_ingot": "2025-05-04 09:55:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_cherry_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-04 10:20:07 +0000"
     },
     "done": true
   },
@@ -2313,6 +2733,12 @@
   "fairyfactions:recipes/decorations/birch_pink_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-04 09:47:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-05-04 10:18:44 +0000"
     },
     "done": true
   },
@@ -2376,6 +2802,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-05-04 10:20:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-04 10:25:01 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/redwood_boat": {
     "criteria": {
       "in_water": "2025-05-04 09:49:41 +0000"
@@ -2388,9 +2826,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-05-04 10:22:09 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-05-04 10:20:07 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/jungle_orange_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-04 09:47:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_acacia_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-04 10:20:07 +0000"
     },
     "done": true
   },
@@ -2526,6 +2982,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/reinforced_cherry_fence": {
+    "criteria": {
+      "has_stick": "2025-05-04 10:20:07 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/birch_light_blue_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-04 09:47:05 +0000"
@@ -2535,6 +2997,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-05-04 09:55:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-05-04 10:21:43 +0000"
     },
     "done": true
   },
@@ -2565,6 +3033,12 @@
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2025-05-04 09:54:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-05-04 10:20:11 +0000"
     },
     "done": true
   },
@@ -2610,6 +3084,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/warped_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-04 10:20:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_warped_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-04 10:20:07 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_basin": {
     "criteria": {
       "has_iron_ingot": "2025-05-04 09:55:49 +0000"
@@ -2643,6 +3129,12 @@
   "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
       "in_water": "2025-05-04 09:49:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-05-04 10:20:11 +0000"
     },
     "done": true
   },
@@ -2682,6 +3174,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-05-04 10:21:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-04 10:25:01 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/mahogany_boat": {
     "criteria": {
       "in_water": "2025-05-04 09:49:41 +0000"
@@ -2697,6 +3201,18 @@
   "fairyfactions:recipes/decorations/jungle_green_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-04 09:47:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-05-04 10:20:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-05-04 10:20:29 +0000"
     },
     "done": true
   },
@@ -2739,6 +3255,18 @@
   "doggytalents:recipes/decorations/locator_orb_jin": {
     "criteria": {
       "has_string": "2025-05-04 09:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-05-04 10:20:07 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-05-04 10:24:57 +0000"
     },
     "done": true
   },
@@ -2820,9 +3348,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-05-04 10:20:07 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/smart_module": {
     "criteria": {
       "has_iron": "2025-05-04 09:55:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-04 10:20:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_mangrove_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-04 10:20:07 +0000"
     },
     "done": true
   },
@@ -2883,6 +3429,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_range_hood": {
     "criteria": {
       "has_iron_ingot": "2025-05-04 09:55:49 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_mangrove_fence": {
+    "criteria": {
+      "has_stick": "2025-05-04 10:20:07 +0000"
     },
     "done": true
   },
@@ -2952,6 +3504,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/acacia_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-04 10:20:07 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/pink_cooler": {
     "criteria": {
       "has_planks": "2025-05-04 09:54:35 +0000"
@@ -2985,6 +3543,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_shovel": "2025-05-04 09:54:23 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/tools/conducting_bone": {
+    "criteria": {
+      "has_bone": "2025-05-04 10:21:34 +0000"
     },
     "done": true
   },
@@ -3027,6 +3591,12 @@
   "fairyfactions:recipes/decorations/oak_black_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-04 09:47:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-05-04 10:21:35 +0000"
     },
     "done": true
   },
@@ -3084,6 +3654,20 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-05-04 10:20:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2025-05-04 10:20:09 +0000",
+      "melon_slice": "2025-05-04 10:18:44 +0000",
+      "carrot": "2025-05-04 10:19:29 +0000"
+    },
+    "done": false
+  },
   "fairyfactions:recipes/decorations/mangrove_green_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-04 09:47:05 +0000"
@@ -3114,6 +3698,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-05-04 10:21:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-05-04 10:20:39 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/mangrove_pink_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-04 09:47:05 +0000"
@@ -3129,6 +3725,12 @@
   "doggytalents:recipes/decorations/locator_orb_ko": {
     "criteria": {
       "has_string": "2025-05-04 09:54:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-05-04 10:20:07 +0000"
     },
     "done": true
   },
@@ -3177,6 +3779,18 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-05-04 09:56:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-04 10:20:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-05-04 10:21:35 +0000"
     },
     "done": true
   },
@@ -3237,6 +3851,12 @@
   "fairyfactions:recipes/decorations/oak_green_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-04 09:47:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_spruce_fence": {
+    "criteria": {
+      "has_stick": "2025-05-04 10:20:07 +0000"
     },
     "done": true
   },
