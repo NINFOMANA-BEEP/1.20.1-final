@@ -306,6 +306,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-05-04 13:55:25 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_kitchen_drawer": {
     "criteria": {
       "has_oak_planks": "2025-05-04 09:54:35 +0000"
@@ -441,6 +447,12 @@
   "create:recipes/misc/crafting/appliances/copper_backtank": {
     "criteria": {
       "has_item": "2025-05-04 12:01:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2025-05-04 13:55:25 +0000"
     },
     "done": true
   },
@@ -2033,6 +2045,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-05-04 13:55:25 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/warped_bath": {
     "criteria": {
       "has_iron_ingot": "2025-05-04 09:55:49 +0000"
@@ -2910,6 +2928,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-05-04 13:55:25 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/green_lamp": {
     "criteria": {
       "has_planks": "2025-05-04 09:54:35 +0000"
@@ -3027,6 +3051,12 @@
   "miniutilities:recipes/misc/speed_upgrade": {
     "criteria": {
       "has_item": "2025-05-04 11:14:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-05-04 13:55:25 +0000"
     },
     "done": true
   },
@@ -3891,6 +3921,12 @@
   "miniutilities:recipes/misc/white_lapis_caelestis": {
     "criteria": {
       "has_item": "2025-05-04 11:14:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/plate": {
+    "criteria": {
+      "has_quartz_block": "2025-05-04 13:55:25 +0000"
     },
     "done": true
   },
@@ -4766,6 +4802,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-05-04 13:53:48 +0000",
       "shrubland": "2025-05-04 11:57:09 +0000",
       "rocky_shrubland": "2025-05-04 11:59:39 +0000",
       "scrubland": "2025-05-04 12:47:17 +0000",
@@ -4781,12 +4818,14 @@
       "redwood_forest": "2025-05-04 09:53:38 +0000",
       "aspen_glade": "2025-05-04 12:31:07 +0000",
       "dune_beach": "2025-05-04 11:51:13 +0000",
+      "volcano": "2025-05-04 13:55:29 +0000",
       "pasture": "2025-05-04 12:46:06 +0000",
       "lavender_field": "2025-05-04 09:51:06 +0000",
       "fir_clearing": "2025-05-04 12:33:08 +0000",
       "grassland": "2025-05-04 11:59:26 +0000",
       "prairie": "2025-05-04 09:44:25 +0000",
       "gravel_beach": "2025-05-04 12:26:33 +0000",
+      "rainforest": "2025-05-04 13:54:23 +0000",
       "ominous_woods": "2025-05-04 12:43:43 +0000"
     },
     "done": false
@@ -4890,6 +4929,12 @@
   "biomesoplenty:recipes/building_blocks/jacaranda_planks": {
     "criteria": {
       "has_logs": "2025-05-04 11:31:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-05-04 13:55:25 +0000"
     },
     "done": true
   },
@@ -5133,6 +5178,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2025-05-04 13:55:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/powered_latch": {
     "criteria": {
       "has_item": "2025-05-04 10:29:00 +0000"
@@ -5166,6 +5217,12 @@
   "doggytalents:recipes/decorations/wool_collar_thicc": {
     "criteria": {
       "has_string": "2025-05-04 09:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-05-04 13:55:25 +0000"
     },
     "done": true
   },
@@ -5925,6 +5982,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2025-05-04 13:55:25 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/iron_hippogryph_armor": {
     "criteria": {
       "has_item": "2025-05-04 10:29:00 +0000"
@@ -6051,6 +6114,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-05-04 13:55:25 +0000"
+    },
+    "done": true
+  },
   "mysticsbiomes:recipes/transportation/jacaranda_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-04 11:49:36 +0000"
@@ -6126,6 +6195,12 @@
   "refurbished_furniture:recipes/misc/constructing/purple_sofa": {
     "criteria": {
       "has_planks": "2025-05-04 09:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-05-04 13:55:25 +0000"
     },
     "done": true
   },
@@ -6612,6 +6687,12 @@
   "mysticsbiomes:recipes/transportation/maple_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-04 11:49:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_glazed_terracotta": {
+    "criteria": {
+      "has_light_blue_terracotta": "2025-05-04 14:00:22 +0000"
     },
     "done": true
   },

@@ -1868,19 +1868,23 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-05-04 13:53:47 +0000",
       "shrubland": "2025-05-04 13:03:57 +0000",
       "scrubland": "2025-05-04 13:41:07 +0000",
       "highland": "2025-05-04 09:42:59 +0000",
       "jacaranda_glade": "2025-05-04 09:30:17 +0000",
       "mystic_grove": "2025-05-04 12:51:48 +0000",
+      "old_growth_woodland": "2025-05-04 13:54:15 +0000",
       "maple_woods": "2025-05-04 13:07:17 +0000",
       "orchard": "2025-05-04 10:02:34 +0000",
       "field": "2025-05-04 12:25:20 +0000",
       "overgrown_greens": "2025-05-04 12:23:34 +0000",
       "coniferous_forest": "2025-05-04 12:30:57 +0000",
+      "spider_nest": "2025-05-04 13:52:49 +0000",
       "redwood_forest": "2025-05-04 09:53:41 +0000",
       "aspen_glade": "2025-05-04 09:53:30 +0000",
       "dune_beach": "2025-05-04 12:55:50 +0000",
+      "volcano": "2025-05-04 13:59:08 +0000",
       "pasture": "2025-05-04 12:46:05 +0000",
       "lavender_field": "2025-05-04 09:51:33 +0000",
       "fir_clearing": "2025-05-04 12:31:23 +0000",
@@ -6387,6 +6391,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-05-04 13:55:50 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-05-04 13:24:12 +0000"
@@ -6408,6 +6418,12 @@
   "create:recipes/misc/crafting/appliances/copper_backtank": {
     "criteria": {
       "has_item": "2025-05-04 13:24:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2025-05-04 13:55:50 +0000"
     },
     "done": true
   },
@@ -6687,6 +6703,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-05-04 13:55:50 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/backpack": {
     "criteria": {
       "has_leather": "2025-05-04 12:33:56 +0000"
@@ -6813,6 +6835,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-05-04 13:55:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
     "criteria": {
       "has_item": "2025-05-04 13:24:12 +0000"
@@ -6822,6 +6850,12 @@
   "iceandfire:recipes/tools/dragonbone_hoe": {
     "criteria": {
       "has_item": "2025-05-04 13:37:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-05-04 13:55:50 +0000"
     },
     "done": true
   },
@@ -6915,6 +6949,18 @@
     },
     "done": true
   },
+  "naturalist:recipes/naturalist/bug_net": {
+    "criteria": {
+      "has_bamboo": "2025-05-04 13:56:35 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/snorkel": {
+    "criteria": {
+      "has_bamboo": "2025-05-04 13:56:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-05-04 13:02:17 +0000"
@@ -6948,6 +6994,12 @@
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2025-05-04 13:02:32 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/plate": {
+    "criteria": {
+      "has_quartz_block": "2025-05-04 13:55:50 +0000"
     },
     "done": true
   },
@@ -7089,6 +7141,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-05-04 13:55:50 +0000"
+    },
+    "done": true
+  },
   "mysticsbiomes:recipes/redstone/tropical_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-04 13:50:37 +0000"
@@ -7122,6 +7180,18 @@
   "iceandfire:recipes/tools/dragonbone_axe": {
     "criteria": {
       "has_item": "2025-05-04 13:37:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2025-05-04 13:55:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-05-04 13:55:50 +0000"
     },
     "done": true
   },
@@ -7263,6 +7333,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2025-05-04 13:55:50 +0000"
+    },
+    "done": true
+  },
   "buntsy:recipes/misc/fume_spreader": {
     "criteria": {
       "has_copper_ingot": "2025-05-04 13:24:12 +0000"
@@ -7275,6 +7351,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-05-04 13:55:50 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/crackled_to_gravel": {
     "criteria": {
       "has_item": "2025-05-04 13:28:53 +0000"
@@ -7284,6 +7366,12 @@
   "biomesoplenty:recipes/building_blocks/maple_planks": {
     "criteria": {
       "has_logs": "2025-05-04 12:31:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-05-04 13:55:50 +0000"
     },
     "done": true
   },
@@ -7425,6 +7513,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-05-04 13:56:35 +0000"
+    },
+    "done": true
+  },
   "lootr:100loot": {
     "criteria": {
       "loot_stat": "2025-05-04 13:08:33 +0000"
@@ -7440,6 +7534,12 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-05-04 13:24:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-05-04 13:56:35 +0000"
     },
     "done": true
   },
@@ -7464,6 +7564,12 @@
   "iceandfire:recipes/misc/dragon_stick": {
     "criteria": {
       "has_item": "2025-05-04 13:37:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-05-04 13:56:35 +0000"
     },
     "done": true
   },

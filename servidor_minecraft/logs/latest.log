@@ -1161,3 +1161,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [04May2025 13:48:02.969] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3748ms or 74 ticks behind
 [04May2025 13:50:09.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Teleported Ich1goM1rukuu to darkblader69]
 [04May2025 13:53:25.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Teleported Ich1goM1rukuu to darkblader69]
+[04May2025 13:55:40.231] [Server thread/WARN] [tombstone/]: The death event of the player darkblader69 was canceled by another mod
+[04May2025 13:55:40.233] [Server thread/INFO] [tombstone/]: The player darkblader69 has successfully been saved
+[04May2025 13:58:41.254] [Server thread/WARN] [tombstone/]: The death event of the player darkblader69 was canceled by another mod
+[04May2025 13:58:41.256] [Server thread/INFO] [tombstone/]: The player darkblader69 has successfully been saved
+[04May2025 14:02:08.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Teleported Ich1goM1rukuu to darkblader69]
