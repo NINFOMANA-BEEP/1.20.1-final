@@ -842,3 +842,22 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [04May2025 09:25:25.294] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: darkblader69[/127.236.37.64:50285] logged in with entity id 957 at (367.1539634117886, 83.0, -209.3471157417857)
 [04May2025 09:25:25.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 joined the game
 [04May2025 09:25:25.382] [Server thread/INFO] [Jade/]: Syncing config to darkblader69 (c5ed7fb1-b56d-3780-a140-29be33768a49)
+[04May2025 09:31:28.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Knowledge of Death]
+[04May2025 09:31:28.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [The alchemy of time on the soul]
+[04May2025 09:31:28.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [A Flaming Sword]
+[04May2025 09:31:28.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Funeral Theft]
+[04May2025 09:32:36.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nothing changed. The player already is an operator
+[04May2025 09:35:13.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Set the time to 1000]
+[04May2025 09:36:05.242] [Server thread/WARN] [tombstone/]: The death event of the player darkblader69 was canceled by another mod
+[04May2025 09:36:05.251] [Server thread/INFO] [tombstone/]: The player darkblader69 has successfully been saved
+[04May2025 09:36:23.689] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ich1goM1rukuu[/127.212.133.0:38283] logged in with entity id 3368 at (362.5, 77.0, -204.5)
+[04May2025 09:36:23.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu joined the game
+[04May2025 09:36:23.813] [Server thread/INFO] [Jade/]: Syncing config to Ich1goM1rukuu (1bb4c909-b771-3893-aca7-1b6637a25cff)
+[04May2025 09:36:23.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Ice and Fire]
+[04May2025 09:36:46.085] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ich1goM1rukuu lost connection: Disconnected
+[04May2025 09:36:46.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu left the game
+[04May2025 09:38:46.693] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ich1goM1rukuu[/127.212.133.0:46127] logged in with entity id 3763 at (362.5, 77.0, -204.5)
+[04May2025 09:38:46.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu joined the game
+[04May2025 09:38:46.768] [Server thread/INFO] [Jade/]: Syncing config to Ich1goM1rukuu (1bb4c909-b771-3893-aca7-1b6637a25cff)
+[04May2025 09:39:11.687] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ich1goM1rukuu lost connection: Disconnected
+[04May2025 09:39:11.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu left the game

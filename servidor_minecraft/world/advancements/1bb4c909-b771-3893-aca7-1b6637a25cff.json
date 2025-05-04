@@ -1,0 +1,57 @@
+{
+  "create:root": {
+    "criteria": {
+      "0": "2025-05-04 09:36:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-05-04 09:36:23 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cooked_egg": {
+    "criteria": {
+      "has_eggs": "2025-05-04 09:36:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2025-05-04 09:36:23 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-05-04 09:36:23 +0000"
+    },
+    "done": true
+  },
+  "ironfurnaces:coal": {
+    "criteria": {
+      "rainbowcoal": "2025-05-04 09:36:23 +0000"
+    },
+    "done": true
+  },
+  "yuushya:recipes/pictor": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-04 09:36:23 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-05-04 09:36:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:flower_forest": "2025-05-04 09:36:25 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}
