@@ -9793,3 +9793,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [08May2025 08:03:15.678] [Server thread/INFO] [Jade/]: Syncing config to Ich1goM1rukuu (1bb4c909-b771-3893-aca7-1b6637a25cff)
 [08May2025 08:03:23.173] [Server thread/WARN] [tombstone/]: The death event of the player darkblader69 was canceled by another mod
 [08May2025 08:03:23.204] [Server thread/INFO] [tombstone/]: The player darkblader69 has successfully been saved
+[08May2025 08:05:21.827] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08May2025 08:05:21.871] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08May2025 08:05:58.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ich1goM1rukuu> PUTA
+[08May2025 08:08:27.989] [Worker-Main-15/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[08May2025 08:08:40.743] [Worker-Main-15/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[08May2025 08:10:21.835] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08May2025 08:10:21.886] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08May2025 08:13:34.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [An Ear-Shattering Roar]
+[08May2025 08:15:21.783] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08May2025 08:15:21.824] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08May2025 08:20:21.775] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08May2025 08:20:21.818] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08May2025 08:22:58.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Rainbow Road]

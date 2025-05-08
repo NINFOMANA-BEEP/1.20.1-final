@@ -7974,5 +7974,245 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/cherry_crate": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-08 08:16:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2025-05-08 08:16:30 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_drawer": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-08 08:16:30 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_mail_box": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-08 08:16:30 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/building_blocks/strawberry_slab": {
+    "criteria": {
+      "has_planks": "2025-05-08 08:16:48 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/decorations/strawberry_sign": {
+    "criteria": {
+      "has_planks": "2025-05-08 08:16:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_horn": {
+    "criteria": {
+      "bestiary": "2025-05-08 08:13:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_cabinetry": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-08 08:16:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-05-08 08:09:43 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_desk": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-08 08:16:30 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2025-05-08 08:03:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2025-05-08 08:16:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-08 08:16:30 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_cutting_board": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-08 08:16:30 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/building_blocks/strawberry_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-08 08:16:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-05-08 08:09:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2025-05-08 08:16:30 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pig": {
+    "criteria": {
+      "has_porkchop": "2025-05-08 08:09:43 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/redstone/strawberry_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-08 08:16:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2025-05-08 08:16:30 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/redstone/strawberry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-08 08:16:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-05-08 08:09:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-08 08:16:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-05-08 08:16:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_storage_jar": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-08 08:16:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-08 08:16:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2025-05-08 08:16:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-05-08 08:09:43 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/redstone/strawberry_button": {
+    "criteria": {
+      "has_planks": "2025-05-08 08:16:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_table": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-08 08:16:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-08 08:16:30 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/redstone/strawberry_door": {
+    "criteria": {
+      "has_planks": "2025-05-08 08:16:48 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wolf": {
+    "criteria": {
+      "has_bone": "2025-05-08 08:03:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cherry_window": {
+    "criteria": {
+      "has_ingredient": "2025-05-08 08:16:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-05-08 08:09:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_chair": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-08 08:16:30 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_drawer": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-08 08:16:30 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/redstone/strawberry_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-08 08:16:48 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/decorations/strawberry_fence": {
+    "criteria": {
+      "has_planks": "2025-05-08 08:16:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-08 08:16:30 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
