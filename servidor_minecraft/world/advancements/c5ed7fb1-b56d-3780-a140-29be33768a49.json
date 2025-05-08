@@ -7997,15 +7997,51 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/cherry_crate": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-08 08:21:16 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/black_dye_from_dried_kelp": {
     "criteria": {
       "has_dried_kelp": "2025-05-08 08:18:11 +0000"
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_sloped_prism": {
+    "criteria": {
+      "hasFramedCornerSlope": "2025-05-08 08:26:05 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_vertical_sloped_stairs": {
+    "criteria": {
+      "hasFramedPanel": "2025-05-08 08:24:19 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_checkered_cube": {
+    "criteria": {
+      "hasFramedSlabCorner": "2025-05-08 08:28:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/chain_from_zinc": {
     "criteria": {
       "has_item": "2025-05-08 08:13:46 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_centered_panel": {
+    "criteria": {
+      "hasFramedPanel": "2025-05-08 08:24:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2025-05-08 08:21:16 +0000"
     },
     "done": true
   },
@@ -8021,15 +8057,39 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/cherry_drawer": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-08 08:21:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_mail_box": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-08 08:21:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_scoria_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-05-08 08:13:46 +0000"
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_stacked_slope_edge": {
+    "criteria": {
+      "hasFramedSlopeEdge": "2025-05-08 08:29:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scoria_slab_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-05-08 08:13:46 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_slope_slab": {
+    "criteria": {
+      "hasFramedSlope": "2025-05-08 08:24:18 +0000"
     },
     "done": true
   },
@@ -8045,9 +8105,21 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_prism_corner": {
+    "criteria": {
+      "hasFramedSlope": "2025-05-08 08:24:18 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/chicken": {
     "criteria": {
       "has_feather": "2025-05-08 08:13:56 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_divided_panel_vertical": {
+    "criteria": {
+      "hasFramedCornerPillar": "2025-05-08 08:29:02 +0000"
     },
     "done": true
   },
@@ -8057,9 +8129,27 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_double_slope": {
+    "criteria": {
+      "hasFramedSlope": "2025-05-08 08:24:18 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/horse": {
     "criteria": {
       "has_leather": "2025-05-08 08:17:55 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_vertical_sliced_stairs": {
+    "criteria": {
+      "hasFramedPanel": "2025-05-08 08:24:19 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_trapdoor": {
+    "criteria": {
+      "hasFramedSlab": "2025-05-08 08:28:58 +0000"
     },
     "done": true
   },
@@ -8081,9 +8171,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_cabinetry": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-08 08:21:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_scoria_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-05-08 08:13:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_desk": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-08 08:21:16 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_prism": {
+    "criteria": {
+      "hasFramedSlope": "2025-05-08 08:24:18 +0000"
     },
     "done": true
   },
@@ -8093,9 +8201,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2025-05-08 08:21:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/scoria_pillar_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-05-08 08:13:46 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_inner_threeway_corner": {
+    "criteria": {
+      "hasFramedSlope": "2025-05-08 08:24:18 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_inner_corner_slope": {
+    "criteria": {
+      "hasFramedSlope": "2025-05-08 08:24:18 +0000"
     },
     "done": true
   },
@@ -8105,9 +8231,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-08 08:21:16 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/quartz": {
     "criteria": {
       "has_quartz": "2025-05-08 08:00:26 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_slope_edge": {
+    "criteria": {
+      "hasFramedSlope": "2025-05-08 08:24:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_cutting_board": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-08 08:21:16 +0000"
     },
     "done": true
   },
@@ -8117,9 +8261,21 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_fancy_detector_rail_slope": {
+    "criteria": {
+      "hasFramedSlope": "2025-05-08 08:24:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_scoria_slab_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-05-08 08:13:46 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_pillar": {
+    "criteria": {
+      "hasFramedCornerPillar": "2025-05-08 08:29:02 +0000"
     },
     "done": true
   },
@@ -8129,9 +8285,33 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_corner_slope": {
+    "criteria": {
+      "hasFramedSlope": "2025-05-08 08:24:18 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_floor_board": {
+    "criteria": {
+      "hasFramedSlab": "2025-05-08 08:28:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-05-08 08:13:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2025-05-08 08:21:16 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_slab_corner": {
+    "criteria": {
+      "hasFramedSlab": "2025-05-08 08:28:58 +0000"
     },
     "done": true
   },
@@ -8153,6 +8333,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_masonry_corner": {
+    "criteria": {
+      "hasFramedSlabEdge": "2025-05-08 08:28:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-05-08 08:13:46 +0000"
@@ -8165,9 +8351,75 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_panel_rotate_to_framed_slab": {
+    "criteria": {
+      "hasFramedPanel": "2025-05-08 08:24:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2025-05-08 08:21:16 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_detector_rail_slope": {
+    "criteria": {
+      "hasFramedSlope": "2025-05-08 08:24:18 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_activator_rail_slope": {
+    "criteria": {
+      "hasFramedSlope": "2025-05-08 08:24:18 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_sliced_stairs_panel": {
+    "criteria": {
+      "hasFramedPanel": "2025-05-08 08:24:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-05-08 08:13:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-08 08:21:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-05-08 08:22:44 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_slope_panel": {
+    "criteria": {
+      "hasFramedSlope": "2025-05-08 08:24:18 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_double_corner": {
+    "criteria": {
+      "hasFramedCornerSlope": "2025-05-08 08:26:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_storage_jar": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-08 08:21:16 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_fancy_rail_slope": {
+    "criteria": {
+      "hasFramedSlope": "2025-05-08 08:24:18 +0000"
     },
     "done": true
   },
@@ -8177,9 +8429,33 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_elevated_slope_edge": {
+    "criteria": {
+      "hasFramedSlopeEdge": "2025-05-08 08:29:38 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_rail_slope": {
+    "criteria": {
+      "hasFramedSlope": "2025-05-08 08:24:18 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_bronze_boots": {
     "criteria": {
       "has_item": "2025-05-08 08:11:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-08 08:21:16 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_sloped_stairs": {
+    "criteria": {
+      "hasFramedSlab": "2025-05-08 08:28:58 +0000"
     },
     "done": true
   },
@@ -8189,9 +8465,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2025-05-08 08:21:16 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_bronze_leggings": {
     "criteria": {
       "has_item": "2025-05-08 08:11:58 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_wall_board": {
+    "criteria": {
+      "hasFramedPanel": "2025-05-08 08:24:19 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_powered_rail_slope": {
+    "criteria": {
+      "hasFramedSlope": "2025-05-08 08:24:18 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_threeway_corner": {
+    "criteria": {
+      "hasFramedSlope": "2025-05-08 08:24:18 +0000"
     },
     "done": true
   },
@@ -8213,9 +8513,39 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_inner_prism_corner": {
+    "criteria": {
+      "hasFramedSlope": "2025-05-08 08:24:18 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rainbow_glass": {
+    "criteria": {
+      "gustmaker": "2025-05-08 08:22:58 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_threeway_corner_pillar": {
+    "criteria": {
+      "hasFramedCornerPillar": "2025-05-08 08:29:02 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_slab_edge": {
+    "criteria": {
+      "hasFramedSlab": "2025-05-08 08:28:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-05-08 08:13:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/wheat_seeds_from_grass": {
+    "criteria": {
+      "has_grass": "2025-05-08 08:25:18 +0000"
     },
     "done": true
   },
@@ -8243,9 +8573,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/cherry_table": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-08 08:21:16 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_divided_slab_rotate_to_framed_divided_panel_horizontal": {
+    "criteria": {
+      "hasFramedDividedSlab": "2025-05-08 08:29:00 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/iron_tier_upgrade": {
     "criteria": {
       "has_iron_ingot": "2025-05-08 08:11:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-08 08:21:16 +0000"
     },
     "done": true
   },
@@ -8264,6 +8612,12 @@
   "travelersbackpack:recipes/misc/hose_nozzle": {
     "criteria": {
       "has_iron": "2025-05-08 08:11:57 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_inner_prism": {
+    "criteria": {
+      "hasFramedSlope": "2025-05-08 08:24:18 +0000"
     },
     "done": true
   },
@@ -8291,6 +8645,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_fancy_powered_rail_slope": {
+    "criteria": {
+      "hasFramedSlope": "2025-05-08 08:24:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-05-08 08:13:46 +0000"
@@ -8303,6 +8663,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_half_pillar": {
+    "criteria": {
+      "hasFramedSlabCorner": "2025-05-08 08:28:59 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/wolf": {
     "criteria": {
       "has_bone": "2025-05-08 08:11:58 +0000"
@@ -8312,6 +8678,24 @@
   "travelersbackpack:recipes/misc/melon": {
     "criteria": {
       "has_melon_slice": "2025-05-08 08:13:33 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_fancy_activator_rail_slope": {
+    "criteria": {
+      "hasFramedSlope": "2025-05-08 08:24:18 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_divided_panel_horizontal": {
+    "criteria": {
+      "hasFramedSlabEdge": "2025-05-08 08:28:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cherry_window": {
+    "criteria": {
+      "has_ingredient": "2025-05-08 08:21:16 +0000"
     },
     "done": true
   },
@@ -8333,9 +8717,33 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/cherry_chair": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-08 08:21:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_drawer": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-08 08:21:16 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_inner_sloped_prism": {
+    "criteria": {
+      "hasFramedCornerSlope": "2025-05-08 08:26:05 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/gold_tier_upgrade": {
     "criteria": {
       "has_gold_ingot": "2025-05-08 08:13:14 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_divided_slab": {
+    "criteria": {
+      "hasFramedSlabEdge": "2025-05-08 08:28:57 +0000"
     },
     "done": true
   },
@@ -8357,15 +8765,63 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_double_threeway_corner_pillar": {
+    "criteria": {
+      "hasFramedThreewayCornerPillar": "2025-05-08 08:24:52 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_elevated_double_slope_edge": {
+    "criteria": {
+      "hasFramedSlopeEdge": "2025-05-08 08:29:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_scoria_bricks_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-05-08 08:13:46 +0000"
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_pyramid_slab": {
+    "criteria": {
+      "hasFramedSlope": "2025-05-08 08:24:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-08 08:21:16 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_slab_rotate_to_framed_panel": {
+    "criteria": {
+      "hasFramedSlab": "2025-05-08 08:28:58 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_bronze_helmet": {
     "criteria": {
       "has_item": "2025-05-08 08:11:58 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_centered_slab": {
+    "criteria": {
+      "hasFramedSlab": "2025-05-08 08:28:58 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_sliced_stairs_slab": {
+    "criteria": {
+      "hasFramedSlab": "2025-05-08 08:28:58 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_half_slope": {
+    "criteria": {
+      "hasFramedSlope": "2025-05-08 08:24:18 +0000"
     },
     "done": true
   },
