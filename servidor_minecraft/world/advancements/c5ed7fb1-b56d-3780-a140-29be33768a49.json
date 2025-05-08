@@ -7997,6 +7997,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_double_prism_corner": {
+    "criteria": {
+      "hasFramedPrismCorner": "2025-05-08 08:32:17 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_crate": {
     "criteria": {
       "has_cherry_planks": "2025-05-08 08:21:16 +0000"
@@ -8267,6 +8273,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-05-08 08:31:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_scoria_slab_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-05-08 08:13:46 +0000"
@@ -8300,6 +8312,12 @@
   "create:recipes/building_blocks/polished_cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-05-08 08:13:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/sea_salt": {
+    "criteria": {
+      "has_ingredient": "2025-05-08 08:31:12 +0000"
     },
     "done": true
   },
@@ -8555,6 +8573,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/food/dough": {
+    "criteria": {
+      "has_water": "2025-05-08 08:31:12 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/standard": {
     "criteria": {
       "has_chest": "2025-05-08 08:13:56 +0000"
@@ -8618,6 +8642,12 @@
   "framedblocks:recipes/building_blocks/framed_inner_prism": {
     "criteria": {
       "hasFramedSlope": "2025-05-08 08:24:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/ice": {
+    "criteria": {
+      "has_ingredient": "2025-05-08 08:31:12 +0000"
     },
     "done": true
   },
@@ -8696,6 +8726,12 @@
   "create:recipes/building_blocks/cherry_window": {
     "criteria": {
       "has_ingredient": "2025-05-08 08:21:16 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_double_threeway_corner": {
+    "criteria": {
+      "hasFramedThreewayCorner": "2025-05-08 08:32:21 +0000"
     },
     "done": true
   },
