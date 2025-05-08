@@ -894,3 +894,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [08May2025 08:22:58.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Rainbow Road]
 [08May2025 08:37:21.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Set the time to 1000]
 [08May2025 08:43:03.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Neighborhood Brawl]
+[08May2025 08:48:47.084] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ich1goM1rukuu lost connection: Disconnected
+[08May2025 08:48:47.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu left the game
+[08May2025 08:49:18.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Set the time to 1000]
+[08May2025 08:49:20.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Set the weather to clear]
+[08May2025 08:50:09.028] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: darkblader69 lost connection: Disconnected
+[08May2025 08:50:09.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 left the game
