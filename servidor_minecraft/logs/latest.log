@@ -880,3 +880,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [22May2025 13:26:28.285] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@9cdb2df[id=<null>,name=Ich1goM1rukuu,properties={},legacy=false] (/127.212.133.0:53761) lost connection: Connection closed - mismatched mod channel list
 [22May2025 13:38:31.029] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: darkblader69 lost connection: Disconnected
 [22May2025 13:38:31.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 left the game
+[22May2025 13:41:53.254] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ich1goM1rukuu[/127.212.133.0:57829] logged in with entity id 4317 at (-5985.2109932220455, 129.0, -4165.611166246408)
+[22May2025 13:41:53.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu joined the game
+[22May2025 13:41:53.337] [Server thread/INFO] [Jade/]: Syncing config to Ich1goM1rukuu (1bb4c909-b771-3893-aca7-1b6637a25cff)
+[22May2025 13:45:20.310] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: darkblader69[/127.211.64.230:48147] logged in with entity id 5234 at (-5895.449999988079, 71.88931624592722, -4112.176021706557)
+[22May2025 13:45:20.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 joined the game
+[22May2025 13:45:20.411] [Server thread/INFO] [Jade/]: Syncing config to darkblader69 (c5ed7fb1-b56d-3780-a140-29be33768a49)
+[22May2025 13:49:33.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Teleported Ich1goM1rukuu to darkblader69]
+[22May2025 13:52:43.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Teleported Ich1goM1rukuu to darkblader69]
+[22May2025 13:54:28.427] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ich1goM1rukuu lost connection: Disconnected
+[22May2025 13:54:28.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu left the game
+[22May2025 13:54:29.028] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: darkblader69 lost connection: Disconnected
+[22May2025 13:54:29.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 left the game
