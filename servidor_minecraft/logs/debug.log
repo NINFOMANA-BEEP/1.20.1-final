@@ -9332,3 +9332,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [22May2025 13:26:28.285] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@9cdb2df[id=<null>,name=Ich1goM1rukuu,properties={},legacy=false] (/127.212.133.0:53761) lost connection: Connection closed - mismatched mod channel list
 [22May2025 13:26:37.119] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [22May2025 13:26:37.169] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22May2025 13:31:37.070] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22May2025 13:31:37.119] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22May2025 13:36:37.066] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22May2025 13:36:37.109] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22May2025 13:38:31.029] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: darkblader69 lost connection: Disconnected
+[22May2025 13:38:31.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 left the game
